@@ -31,8 +31,8 @@
             "version": "3.0.0",
             "type": "ClassDiagram",
             "size": {
-              "width": 2900,
-              "height": 2372
+              "width": 2000,
+              "height": 1460
             },
             "interactive": {
               "elements": {},
@@ -45,9 +45,9 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": -950,
-                  "y": -1166,
-                  "width": 320,
+                  "x": -940,
+                  "y": -600,
+                  "width": 220,
                   "height": 140
                 },
                 "attributes": [
@@ -65,9 +65,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_i7bl11lzj_mwu5usj8_eo8",
                 "bounds": {
-                  "x": -949.5,
-                  "y": -1125.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -559.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -88,9 +88,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_i7bl11lzj_mwu5usj8_eo8",
                 "bounds": {
-                  "x": -949.5,
-                  "y": -1100.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -534.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -111,9 +111,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_i7bl11lzj_mwu5usj8_eo8",
                 "bounds": {
-                  "x": -949.5,
-                  "y": -1075.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -509.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -134,9 +134,9 @@
                 "type": "ClassMethod",
                 "owner": "class_i7bl11lzj_mwu5usj8_eo8",
                 "bounds": {
-                  "x": -949.5,
-                  "y": -1050.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -484.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -157,9 +157,9 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": -870,
-                  "y": -826,
-                  "width": 320,
+                  "x": -580,
+                  "y": -600,
+                  "width": 220,
                   "height": 290
                 },
                 "attributes": [
@@ -183,9 +183,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_71osc72gz_mwu5usj9_7r7",
                 "bounds": {
-                  "x": -869.5,
-                  "y": -785.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": -559.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -206,9 +206,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_71osc72gz_mwu5usj9_7r7",
                 "bounds": {
-                  "x": -869.5,
-                  "y": -760.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": -534.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -229,9 +229,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_71osc72gz_mwu5usj9_7r7",
                 "bounds": {
-                  "x": -869.5,
-                  "y": -735.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": -509.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -252,9 +252,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_71osc72gz_mwu5usj9_7r7",
                 "bounds": {
-                  "x": -869.5,
-                  "y": -710.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": -484.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -275,9 +275,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_71osc72gz_mwu5usj9_7r7",
                 "bounds": {
-                  "x": -869.5,
-                  "y": -685.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": -459.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -298,9 +298,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_71osc72gz_mwu5usj9_7r7",
                 "bounds": {
-                  "x": -869.5,
-                  "y": -660.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": -434.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -321,9 +321,9 @@
                 "type": "ClassMethod",
                 "owner": "class_71osc72gz_mwu5usj9_7r7",
                 "bounds": {
-                  "x": -869.5,
-                  "y": -635.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": -409.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -344,9 +344,9 @@
                 "type": "ClassMethod",
                 "owner": "class_71osc72gz_mwu5usj9_7r7",
                 "bounds": {
-                  "x": -869.5,
-                  "y": -610.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": -384.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -367,9 +367,9 @@
                 "type": "ClassMethod",
                 "owner": "class_71osc72gz_mwu5usj9_7r7",
                 "bounds": {
-                  "x": -869.5,
-                  "y": -585.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": -359.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -390,9 +390,9 @@
                 "type": "ClassMethod",
                 "owner": "class_71osc72gz_mwu5usj9_7r7",
                 "bounds": {
-                  "x": -869.5,
-                  "y": -560.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": -334.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -413,9 +413,9 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": -410,
-                  "y": -1166,
-                  "width": 380,
+                  "x": -220,
+                  "y": -600,
+                  "width": 220,
                   "height": 190
                 },
                 "attributes": [
@@ -435,9 +435,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_fgoilmjt3_mwu5usj9_a6h",
                 "bounds": {
-                  "x": -409.5,
-                  "y": -1125.5,
-                  "width": 379,
+                  "x": -219.5,
+                  "y": -559.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -458,9 +458,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_fgoilmjt3_mwu5usj9_a6h",
                 "bounds": {
-                  "x": -409.5,
-                  "y": -1100.5,
-                  "width": 379,
+                  "x": -219.5,
+                  "y": -534.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -481,9 +481,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_fgoilmjt3_mwu5usj9_a6h",
                 "bounds": {
-                  "x": -409.5,
-                  "y": -1075.5,
-                  "width": 379,
+                  "x": -219.5,
+                  "y": -509.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -504,9 +504,9 @@
                 "type": "ClassMethod",
                 "owner": "class_fgoilmjt3_mwu5usj9_a6h",
                 "bounds": {
-                  "x": -409.5,
-                  "y": -1050.5,
-                  "width": 379,
+                  "x": -219.5,
+                  "y": -484.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -527,9 +527,9 @@
                 "type": "ClassMethod",
                 "owner": "class_fgoilmjt3_mwu5usj9_a6h",
                 "bounds": {
-                  "x": -409.5,
-                  "y": -1025.5,
-                  "width": 379,
+                  "x": -219.5,
+                  "y": -459.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -550,9 +550,9 @@
                 "type": "ClassMethod",
                 "owner": "class_fgoilmjt3_mwu5usj9_a6h",
                 "bounds": {
-                  "x": -409.5,
-                  "y": -1000.5,
-                  "width": 379,
+                  "x": -219.5,
+                  "y": -434.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -573,10 +573,10 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": -4,
-                  "y": -1166,
-                  "width": 320,
-                  "height": 340
+                  "x": -940,
+                  "y": -320,
+                  "width": 220,
+                  "height": 315
                 },
                 "attributes": [
                   "attr_77d18ng8i_mwu5usja_1wj",
@@ -586,8 +586,7 @@
                   "attr_vcbkwnv49_mwu5usja_9f8",
                   "attr_ahzlhyi76_mwu5usja_a7s",
                   "attr_56rjzln4g_mwu5usja_tsz",
-                  "attr_n9yzhgdms_mwu5usja_v6m",
-                  "6e6a90b7-0a1e-5a04-af9c-d9e2a6f941e9"
+                  "attr_n9yzhgdms_mwu5usja_v6m"
                 ],
                 "methods": [
                   "method_7rn3kk3rx_mwu5usja_3l2",
@@ -601,9 +600,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_3gep3usph_mwu5usja_y8n",
                 "bounds": {
-                  "x": -3.5,
-                  "y": -1125.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -279.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -624,9 +623,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_3gep3usph_mwu5usja_y8n",
                 "bounds": {
-                  "x": -3.5,
-                  "y": -1100.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -254.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -647,9 +646,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_3gep3usph_mwu5usja_y8n",
                 "bounds": {
-                  "x": -3.5,
-                  "y": -1075.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -229.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -670,9 +669,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_3gep3usph_mwu5usja_y8n",
                 "bounds": {
-                  "x": -3.5,
-                  "y": -1050.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -204.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -693,9 +692,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_3gep3usph_mwu5usja_y8n",
                 "bounds": {
-                  "x": -3.5,
-                  "y": -1025.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -179.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -716,9 +715,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_3gep3usph_mwu5usja_y8n",
                 "bounds": {
-                  "x": -3.5,
-                  "y": -1000.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -154.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -739,9 +738,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_3gep3usph_mwu5usja_y8n",
                 "bounds": {
-                  "x": -3.5,
-                  "y": -975.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -129.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -762,9 +761,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_3gep3usph_mwu5usja_y8n",
                 "bounds": {
-                  "x": -3.5,
-                  "y": -950.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -104.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -785,9 +784,9 @@
                 "type": "ClassMethod",
                 "owner": "class_3gep3usph_mwu5usja_y8n",
                 "bounds": {
-                  "x": -3.5,
-                  "y": -900.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -79.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -808,9 +807,9 @@
                 "type": "ClassMethod",
                 "owner": "class_3gep3usph_mwu5usja_y8n",
                 "bounds": {
-                  "x": -3.5,
-                  "y": -875.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -54.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -831,37 +830,14 @@
                 "type": "ClassMethod",
                 "owner": "class_3gep3usph_mwu5usja_y8n",
                 "bounds": {
-                  "x": -3.5,
-                  "y": -850.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": -29.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
                 "visibility": "public",
                 "attributeType": "int",
-                "implementationType": "none",
-                "stateMachineId": "",
-                "quantumCircuitId": "",
-                "neuralNetworkId": "",
-                "isOptional": false,
-                "isDerived": false,
-                "isId": false,
-                "isExternalId": false
-              },
-              "6e6a90b7-0a1e-5a04-af9c-d9e2a6f941e9": {
-                "id": "6e6a90b7-0a1e-5a04-af9c-d9e2a6f941e9",
-                "name": "jenisBencana",
-                "type": "ClassAttribute",
-                "owner": "class_3gep3usph_mwu5usja_y8n",
-                "bounds": {
-                  "x": -3.5,
-                  "y": -925.5,
-                  "width": 319,
-                  "height": 25
-                },
-                "code": "",
-                "visibility": "private",
-                "attributeType": "str",
                 "implementationType": "none",
                 "stateMachineId": "",
                 "quantumCircuitId": "",
@@ -877,9 +853,9 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": -490,
-                  "y": -206,
-                  "width": 460,
+                  "x": -580,
+                  "y": -320,
+                  "width": 220,
                   "height": 265
                 },
                 "attributes": [
@@ -902,9 +878,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_8flepo9s7_mwu5usja_t83",
                 "bounds": {
-                  "x": -489.5,
-                  "y": -165.5,
-                  "width": 459,
+                  "x": -579.5,
+                  "y": -279.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -925,9 +901,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_8flepo9s7_mwu5usja_t83",
                 "bounds": {
-                  "x": -489.5,
-                  "y": -140.5,
-                  "width": 459,
+                  "x": -579.5,
+                  "y": -254.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -948,9 +924,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_8flepo9s7_mwu5usja_t83",
                 "bounds": {
-                  "x": -489.5,
-                  "y": -115.5,
-                  "width": 459,
+                  "x": -579.5,
+                  "y": -229.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -971,9 +947,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_8flepo9s7_mwu5usja_t83",
                 "bounds": {
-                  "x": -489.5,
-                  "y": -90.5,
-                  "width": 459,
+                  "x": -579.5,
+                  "y": -204.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -994,9 +970,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_8flepo9s7_mwu5usja_t83",
                 "bounds": {
-                  "x": -489.5,
-                  "y": -65.5,
-                  "width": 459,
+                  "x": -579.5,
+                  "y": -179.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1017,9 +993,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_8flepo9s7_mwu5usja_t83",
                 "bounds": {
-                  "x": -489.5,
-                  "y": -40.5,
-                  "width": 459,
+                  "x": -579.5,
+                  "y": -154.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1036,13 +1012,13 @@
               },
               "method_pmaeix9gi_mwu5usja_3k7": {
                 "id": "method_pmaeix9gi_mwu5usja_3k7",
-                "name": "validasiTeks()",
+                "name": "validasiTeknis()",
                 "type": "ClassMethod",
                 "owner": "class_8flepo9s7_mwu5usja_t83",
                 "bounds": {
-                  "x": -489.5,
-                  "y": -15.5,
-                  "width": 459,
+                  "x": -579.5,
+                  "y": -129.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1059,13 +1035,13 @@
               },
               "method_7kn0ycddb_mwu5usja_1au": {
                 "id": "method_7kn0ycddb_mwu5usja_1au",
-                "name": "catatVerifikasiPetugas(keputusan: str, catatan: str)",
+                "name": "catatanVerifikasiPetugas(keputusan: str, catatan: str)",
                 "type": "ClassMethod",
                 "owner": "class_8flepo9s7_mwu5usja_t83",
                 "bounds": {
-                  "x": -489.5,
-                  "y": 9.5,
-                  "width": 459,
+                  "x": -579.5,
+                  "y": -104.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1086,9 +1062,9 @@
                 "type": "ClassMethod",
                 "owner": "class_8flepo9s7_mwu5usja_t83",
                 "bounds": {
-                  "x": -489.5,
-                  "y": 34.5,
-                  "width": 459,
+                  "x": -579.5,
+                  "y": -79.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1109,9 +1085,9 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": 240,
-                  "y": -206,
-                  "width": 320,
+                  "x": -220,
+                  "y": -320,
+                  "width": 220,
                   "height": 240
                 },
                 "attributes": [
@@ -1133,9 +1109,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_k7a3yog3v_mwu5usjb_64i",
                 "bounds": {
-                  "x": 240.5,
-                  "y": -165.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": -279.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1156,9 +1132,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_k7a3yog3v_mwu5usjb_64i",
                 "bounds": {
-                  "x": 240.5,
-                  "y": -140.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": -254.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1179,9 +1155,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_k7a3yog3v_mwu5usjb_64i",
                 "bounds": {
-                  "x": 240.5,
-                  "y": -115.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": -229.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1202,9 +1178,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_k7a3yog3v_mwu5usjb_64i",
                 "bounds": {
-                  "x": 240.5,
-                  "y": -90.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": -204.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1225,9 +1201,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_k7a3yog3v_mwu5usjb_64i",
                 "bounds": {
-                  "x": 240.5,
-                  "y": -65.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": -179.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1248,9 +1224,9 @@
                 "type": "ClassMethod",
                 "owner": "class_k7a3yog3v_mwu5usjb_64i",
                 "bounds": {
-                  "x": 240.5,
-                  "y": -40.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": -154.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1271,9 +1247,9 @@
                 "type": "ClassMethod",
                 "owner": "class_k7a3yog3v_mwu5usjb_64i",
                 "bounds": {
-                  "x": 240.5,
-                  "y": -15.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": -129.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1294,9 +1270,9 @@
                 "type": "ClassMethod",
                 "owner": "class_k7a3yog3v_mwu5usjb_64i",
                 "bounds": {
-                  "x": 240.5,
-                  "y": 9.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": -104.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1317,9 +1293,9 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": -670,
-                  "y": 346,
-                  "width": 400,
+                  "x": -940,
+                  "y": -40,
+                  "width": 220,
                   "height": 215
                 },
                 "attributes": [
@@ -1340,9 +1316,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_ztevpoz1o_mwu5usjb_ifm",
                 "bounds": {
-                  "x": -669.5,
-                  "y": 386.5,
-                  "width": 399,
+                  "x": -939.5,
+                  "y": 0.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1363,9 +1339,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_ztevpoz1o_mwu5usjb_ifm",
                 "bounds": {
-                  "x": -669.5,
-                  "y": 411.5,
-                  "width": 399,
+                  "x": -939.5,
+                  "y": 25.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1386,9 +1362,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_ztevpoz1o_mwu5usjb_ifm",
                 "bounds": {
-                  "x": -669.5,
-                  "y": 436.5,
-                  "width": 399,
+                  "x": -939.5,
+                  "y": 50.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1409,9 +1385,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_ztevpoz1o_mwu5usjb_ifm",
                 "bounds": {
-                  "x": -669.5,
-                  "y": 461.5,
-                  "width": 399,
+                  "x": -939.5,
+                  "y": 75.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1432,9 +1408,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_ztevpoz1o_mwu5usjb_ifm",
                 "bounds": {
-                  "x": -669.5,
-                  "y": 486.5,
-                  "width": 399,
+                  "x": -939.5,
+                  "y": 100.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1455,9 +1431,9 @@
                 "type": "ClassMethod",
                 "owner": "class_ztevpoz1o_mwu5usjb_ifm",
                 "bounds": {
-                  "x": -669.5,
-                  "y": 511.5,
-                  "width": 399,
+                  "x": -939.5,
+                  "y": 125.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1478,9 +1454,9 @@
                 "type": "ClassMethod",
                 "owner": "class_ztevpoz1o_mwu5usjb_ifm",
                 "bounds": {
-                  "x": -669.5,
-                  "y": 536.5,
-                  "width": 399,
+                  "x": -939.5,
+                  "y": 150.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1501,9 +1477,9 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": -170,
-                  "y": 354,
-                  "width": 320,
+                  "x": -580,
+                  "y": -40,
+                  "width": 220,
                   "height": 190
                 },
                 "attributes": [
@@ -1523,9 +1499,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_pfgqypwe2_mwu5usjb_1vd",
                 "bounds": {
-                  "x": -169.5,
-                  "y": 394.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": 0.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1546,9 +1522,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_pfgqypwe2_mwu5usjb_1vd",
                 "bounds": {
-                  "x": -169.5,
-                  "y": 419.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": 25.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1569,9 +1545,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_pfgqypwe2_mwu5usjb_1vd",
                 "bounds": {
-                  "x": -169.5,
-                  "y": 444.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": 50.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1592,9 +1568,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_pfgqypwe2_mwu5usjb_1vd",
                 "bounds": {
-                  "x": -169.5,
-                  "y": 469.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": 75.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1615,9 +1591,9 @@
                 "type": "ClassMethod",
                 "owner": "class_pfgqypwe2_mwu5usjb_1vd",
                 "bounds": {
-                  "x": -169.5,
-                  "y": 494.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": 100.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1638,9 +1614,9 @@
                 "type": "ClassMethod",
                 "owner": "class_pfgqypwe2_mwu5usjb_1vd",
                 "bounds": {
-                  "x": -169.5,
-                  "y": 519.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": 125.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1661,9 +1637,9 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": -1430,
-                  "y": -174,
-                  "width": 320,
+                  "x": -220,
+                  "y": -40,
+                  "width": 220,
                   "height": 265
                 },
                 "attributes": [
@@ -1686,9 +1662,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_rdkxkd7og_mwu5usjb_5y8",
                 "bounds": {
-                  "x": -1429.5,
-                  "y": -133.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 0.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1709,9 +1685,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_rdkxkd7og_mwu5usjb_5y8",
                 "bounds": {
-                  "x": -1429.5,
-                  "y": -108.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 25.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1732,9 +1708,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_rdkxkd7og_mwu5usjb_5y8",
                 "bounds": {
-                  "x": -1429.5,
-                  "y": -83.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 50.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1755,9 +1731,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_rdkxkd7og_mwu5usjb_5y8",
                 "bounds": {
-                  "x": -1429.5,
-                  "y": -58.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 75.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1778,9 +1754,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_rdkxkd7og_mwu5usjb_5y8",
                 "bounds": {
-                  "x": -1429.5,
-                  "y": -33.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 100.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1801,9 +1777,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_rdkxkd7og_mwu5usjb_5y8",
                 "bounds": {
-                  "x": -1429.5,
-                  "y": -8.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 125.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1824,9 +1800,9 @@
                 "type": "ClassMethod",
                 "owner": "class_rdkxkd7og_mwu5usjb_5y8",
                 "bounds": {
-                  "x": -1429.5,
-                  "y": 16.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 150.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1847,9 +1823,9 @@
                 "type": "ClassMethod",
                 "owner": "class_rdkxkd7og_mwu5usjb_5y8",
                 "bounds": {
-                  "x": -1429.5,
-                  "y": 41.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 175.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1870,9 +1846,9 @@
                 "type": "ClassMethod",
                 "owner": "class_rdkxkd7og_mwu5usjb_5y8",
                 "bounds": {
-                  "x": -1429.5,
-                  "y": 66.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 200.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1893,17 +1869,18 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": -950,
-                  "y": 916,
-                  "width": 320,
-                  "height": 240
+                  "x": -940,
+                  "y": 240,
+                  "width": 220,
+                  "height": 265
                 },
                 "attributes": [
                   "attr_079g8dkw4_mwu5usjb_iob",
                   "attr_eh0zokfa0_mwu5usjb_b80",
                   "attr_i7bo1lt59_mwu5usjb_d8b",
                   "attr_on27n44t0_mwu5usjb_g94",
-                  "attr_rhxwvempi_mwu5usjb_m40"
+                  "attr_rhxwvempi_mwu5usjb_m40",
+                  "attr_41fx82glm_mwu5usjb_rlm"
                 ],
                 "methods": [
                   "method_9aidejujy_mwu5usjb_3m7",
@@ -1917,9 +1894,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_2q0nj1a4k_mwu5usjb_sur",
                 "bounds": {
-                  "x": -949.5,
-                  "y": 956.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": 280.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1940,9 +1917,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_2q0nj1a4k_mwu5usjb_sur",
                 "bounds": {
-                  "x": -949.5,
-                  "y": 981.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": 305.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1963,9 +1940,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_2q0nj1a4k_mwu5usjb_sur",
                 "bounds": {
-                  "x": -949.5,
-                  "y": 1006.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": 330.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -1986,9 +1963,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_2q0nj1a4k_mwu5usjb_sur",
                 "bounds": {
-                  "x": -949.5,
-                  "y": 1031.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": 355.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2005,13 +1982,36 @@
               },
               "attr_rhxwvempi_mwu5usjb_m40": {
                 "id": "attr_rhxwvempi_mwu5usjb_m40",
-                "name": "statusPenugasan",
+                "name": "statusPenyelesaian",
                 "type": "ClassAttribute",
                 "owner": "class_2q0nj1a4k_mwu5usjb_sur",
                 "bounds": {
-                  "x": -949.5,
-                  "y": 1056.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": 380.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_41fx82glm_mwu5usjb_rlm": {
+                "id": "attr_41fx82glm_mwu5usjb_rlm",
+                "name": "statusPenguasaan",
+                "type": "ClassAttribute",
+                "owner": "class_2q0nj1a4k_mwu5usjb_sur",
+                "bounds": {
+                  "x": -939.5,
+                  "y": 405.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2032,9 +2032,9 @@
                 "type": "ClassMethod",
                 "owner": "class_2q0nj1a4k_mwu5usjb_sur",
                 "bounds": {
-                  "x": -949.5,
-                  "y": 1081.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": 430.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2055,9 +2055,9 @@
                 "type": "ClassMethod",
                 "owner": "class_2q0nj1a4k_mwu5usjb_sur",
                 "bounds": {
-                  "x": -949.5,
-                  "y": 1106.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": 455.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2078,9 +2078,9 @@
                 "type": "ClassMethod",
                 "owner": "class_2q0nj1a4k_mwu5usjb_sur",
                 "bounds": {
-                  "x": -949.5,
-                  "y": 1131.5,
-                  "width": 319,
+                  "x": -939.5,
+                  "y": 480.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2101,9 +2101,9 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": 650,
-                  "y": -902,
-                  "width": 320,
+                  "x": -580,
+                  "y": 240,
+                  "width": 220,
                   "height": 165
                 },
                 "attributes": [
@@ -2122,9 +2122,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_i7ngzjr5m_mwu5usjb_pwk",
                 "bounds": {
-                  "x": 650.5,
-                  "y": -861.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": 280.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2145,9 +2145,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_i7ngzjr5m_mwu5usjb_pwk",
                 "bounds": {
-                  "x": 650.5,
-                  "y": -836.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": 305.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2168,9 +2168,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_i7ngzjr5m_mwu5usjb_pwk",
                 "bounds": {
-                  "x": 650.5,
-                  "y": -811.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": 330.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2187,18 +2187,18 @@
               },
               "attr_djlsc8iy9_mwu5usjb_b5a": {
                 "id": "attr_djlsc8iy9_mwu5usjb_b5a",
-                "name": "jumlah",
+                "name": "situasiDistribusi",
                 "type": "ClassAttribute",
                 "owner": "class_i7ngzjr5m_mwu5usjb_pwk",
                 "bounds": {
-                  "x": 650.5,
-                  "y": -786.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": 355.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
                 "visibility": "private",
-                "attributeType": "int",
+                "attributeType": "str",
                 "implementationType": "none",
                 "stateMachineId": "",
                 "quantumCircuitId": "",
@@ -2210,18 +2210,18 @@
               },
               "method_u6vibp4i6_mwu5usjb_jj6": {
                 "id": "method_u6vibp4i6_mwu5usjb_jj6",
-                "name": "method(type)",
+                "name": "method()",
                 "type": "ClassMethod",
                 "owner": "class_i7ngzjr5m_mwu5usjb_pwk",
                 "bounds": {
-                  "x": 650.5,
-                  "y": -761.5,
-                  "width": 319,
+                  "x": -579.5,
+                  "y": 380.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
                 "visibility": "public",
-                "attributeType": "type",
+                "attributeType": "any",
                 "implementationType": "none",
                 "stateMachineId": "",
                 "quantumCircuitId": "",
@@ -2237,9 +2237,9 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": 1110,
-                  "y": -630,
-                  "width": 320,
+                  "x": -220,
+                  "y": 240,
+                  "width": 220,
                   "height": 165
                 },
                 "attributes": [
@@ -2258,9 +2258,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_onq76q4lo_mwu5usjb_c7r",
                 "bounds": {
-                  "x": 1110.5,
-                  "y": -589.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 280.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2281,9 +2281,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_onq76q4lo_mwu5usjb_c7r",
                 "bounds": {
-                  "x": 1110.5,
-                  "y": -564.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 305.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2304,9 +2304,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_onq76q4lo_mwu5usjb_c7r",
                 "bounds": {
-                  "x": 1110.5,
-                  "y": -539.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 330.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2327,9 +2327,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_onq76q4lo_mwu5usjb_c7r",
                 "bounds": {
-                  "x": 1110.5,
-                  "y": -514.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 355.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2350,9 +2350,9 @@
                 "type": "ClassMethod",
                 "owner": "class_onq76q4lo_mwu5usjb_c7r",
                 "bounds": {
-                  "x": 1110.5,
-                  "y": -489.5,
-                  "width": 319,
+                  "x": -219.5,
+                  "y": 380.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2373,9 +2373,9 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": 750,
-                  "y": -206,
-                  "width": 380,
+                  "x": -940,
+                  "y": 520,
+                  "width": 220,
                   "height": 190
                 },
                 "attributes": [
@@ -2395,9 +2395,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_05et6q8k7_mwu5usjc_jie",
                 "bounds": {
-                  "x": 750.5,
-                  "y": -165.5,
-                  "width": 379,
+                  "x": -939.5,
+                  "y": 560.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2418,9 +2418,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_05et6q8k7_mwu5usjc_jie",
                 "bounds": {
-                  "x": 750.5,
-                  "y": -140.5,
-                  "width": 379,
+                  "x": -939.5,
+                  "y": 585.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2437,18 +2437,18 @@
               },
               "attr_xnmpqwdfj_mwu5usjc_10u": {
                 "id": "attr_xnmpqwdfj_mwu5usjc_10u",
-                "name": "tanggalPendataan",
+                "name": "jumlahTerealisasi",
                 "type": "ClassAttribute",
                 "owner": "class_05et6q8k7_mwu5usjc_jie",
                 "bounds": {
-                  "x": 750.5,
-                  "y": -115.5,
-                  "width": 379,
+                  "x": -939.5,
+                  "y": 610.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
                 "visibility": "private",
-                "attributeType": "datetime",
+                "attributeType": "int",
                 "implementationType": "none",
                 "stateMachineId": "",
                 "quantumCircuitId": "",
@@ -2464,9 +2464,9 @@
                 "type": "ClassAttribute",
                 "owner": "class_05et6q8k7_mwu5usjc_jie",
                 "bounds": {
-                  "x": 750.5,
-                  "y": -90.5,
-                  "width": 379,
+                  "x": -939.5,
+                  "y": 635.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2477,7 +2477,7 @@
                 "quantumCircuitId": "",
                 "neuralNetworkId": "",
                 "isOptional": false,
-                "isDerived": true,
+                "isDerived": false,
                 "isId": false,
                 "isExternalId": false
               },
@@ -2487,9 +2487,9 @@
                 "type": "ClassMethod",
                 "owner": "class_05et6q8k7_mwu5usjc_jie",
                 "bounds": {
-                  "x": 750.5,
-                  "y": -65.5,
-                  "width": 379,
+                  "x": -939.5,
+                  "y": 660.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2506,13 +2506,13 @@
               },
               "method_qiyr5untx_mwu5usjc_ye3": {
                 "id": "method_qiyr5untx_mwu5usjc_ye3",
-                "name": "hitungKekurangan()",
+                "name": "hitungKerugian()",
                 "type": "ClassMethod",
                 "owner": "class_05et6q8k7_mwu5usjc_jie",
                 "bounds": {
-                  "x": 750.5,
-                  "y": -40.5,
-                  "width": 379,
+                  "x": -939.5,
+                  "y": 685.5,
+                  "width": 219,
                   "height": 25
                 },
                 "code": "",
@@ -2535,23 +2535,39 @@
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": -630,
-                  "y": -1058,
-                  "width": 220,
-                  "height": 0
+                  "x": -980,
+                  "y": -540,
+                  "width": 1046.3515625,
+                  "height": 170
                 },
                 "path": [
                   {
-                    "x": 0,
-                    "y": 0
+                    "x": 40,
+                    "y": 10
                   },
                   {
-                    "x": 220,
-                    "y": 0
+                    "x": 0,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 170
+                  },
+                  {
+                    "x": 1020,
+                    "y": 170
+                  },
+                  {
+                    "x": 1020,
+                    "y": 35
+                  },
+                  {
+                    "x": 980,
+                    "y": 35
                   }
                 ],
                 "source": {
-                  "direction": "Right",
+                  "direction": "Left",
                   "element": "class_i7bl11lzj_mwu5usj8_eo8",
                   "multiplicity": "0..*",
                   "role": "",
@@ -2564,7 +2580,7 @@
                   }
                 },
                 "target": {
-                  "direction": "Left",
+                  "direction": "Right",
                   "element": "class_fgoilmjt3_mwu5usj9_a6h",
                   "multiplicity": "1",
                   "role": "Memuat",
@@ -2576,56 +2592,7 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
-              },
-              "rel_rdbllma1u_mwu5usjc_9sj": {
-                "id": "rel_rdbllma1u_mwu5usjc_9sj",
-                "name": "Mengirim",
-                "type": "ClassBidirectional",
-                "owner": null,
-                "bounds": {
-                  "x": -790,
-                  "y": -1026,
-                  "width": 0,
-                  "height": 200
-                },
-                "path": [
-                  {
-                    "x": 0,
-                    "y": 200
-                  },
-                  {
-                    "x": 0,
-                    "y": 0
-                  }
-                ],
-                "source": {
-                  "direction": "Up",
-                  "element": "class_71osc72gz_mwu5usj9_7r7",
-                  "multiplicity": "1",
-                  "role": "",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "target": {
-                  "direction": "Down",
-                  "element": "class_i7bl11lzj_mwu5usj8_eo8",
-                  "multiplicity": "0..*",
-                  "role": "Mengirim",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
               },
               "rel_8ynhzsb3s_mwu5usjc_6xq": {
                 "id": "rel_8ynhzsb3s_mwu5usjc_6xq",
@@ -2633,27 +2600,39 @@
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": -550,
-                  "y": -976,
-                  "width": 330,
-                  "height": 236
+                  "x": -620,
+                  "y": -640,
+                  "width": 724.9375,
+                  "height": 223
                 },
                 "path": [
                   {
+                    "x": 40,
+                    "y": 185
+                  },
+                  {
                     "x": 0,
-                    "y": 236
+                    "y": 185
                   },
                   {
-                    "x": 330,
-                    "y": 236
-                  },
-                  {
-                    "x": 330,
+                    "x": 0,
                     "y": 0
+                  },
+                  {
+                    "x": 660,
+                    "y": 0
+                  },
+                  {
+                    "x": 660,
+                    "y": 135
+                  },
+                  {
+                    "x": 620,
+                    "y": 135
                   }
                 ],
                 "source": {
-                  "direction": "Right",
+                  "direction": "Left",
                   "element": "class_71osc72gz_mwu5usj9_7r7",
                   "multiplicity": "2..*",
                   "role": "",
@@ -2666,9 +2645,9 @@
                   }
                 },
                 "target": {
-                  "direction": "Down",
+                  "direction": "Right",
                   "element": "class_fgoilmjt3_mwu5usj9_a6h",
-                  "multiplicity": "0..*",
+                  "multiplicity": "1",
                   "role": "Berpartisipasi",
                   "navigable": true,
                   "bounds": {
@@ -2678,31 +2657,27 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
               },
-              "87f806d1-da76-57cb-964d-328d4e1e382e": {
-                "id": "87f806d1-da76-57cb-964d-328d4e1e382e",
-                "name": "Memiliki sebagai relawan",
+              "rel_rdbllma1u_mwu5usjc_9sj": {
+                "id": "rel_rdbllma1u_mwu5usjc_9sj",
+                "name": "Menulis",
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": -1270,
-                  "y": -640,
-                  "width": 400,
-                  "height": 466
+                  "x": -720,
+                  "y": -540,
+                  "width": 140,
+                  "height": 48
                 },
                 "path": [
                   {
-                    "x": 400,
-                    "y": 0
+                    "x": 140,
+                    "y": 10
                   },
                   {
                     "x": 0,
-                    "y": 0
-                  },
-                  {
-                    "x": 0,
-                    "y": 466
+                    "y": 10
                   }
                 ],
                 "source": {
@@ -2719,63 +2694,10 @@
                   }
                 },
                 "target": {
-                  "direction": "Up",
-                  "element": "class_rdkxkd7og_mwu5usjb_5y8",
-                  "multiplicity": "0..*",
-                  "role": "Memiliki sebagai relawan",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "isManuallyLayouted": true
-              },
-              "c26b8efd-0b0e-5d61-8e1d-430c9cec5b5e": {
-                "id": "c26b8efd-0b0e-5d61-8e1d-430c9cec5b5e",
-                "name": "Mencatat sebagai petugas",
-                "type": "ClassBidirectional",
-                "owner": null,
-                "bounds": {
-                  "x": -550,
-                  "y": -737,
-                  "width": 1360,
-                  "height": 137
-                },
-                "path": [
-                  {
-                    "x": 0,
-                    "y": 137
-                  },
-                  {
-                    "x": 1360,
-                    "y": 137
-                  },
-                  {
-                    "x": 1360,
-                    "y": 0
-                  }
-                ],
-                "source": {
                   "direction": "Right",
-                  "element": "class_71osc72gz_mwu5usj9_7r7",
-                  "multiplicity": "1",
-                  "role": "",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "target": {
-                  "direction": "Down",
-                  "element": "class_i7ngzjr5m_mwu5usjb_pwk",
+                  "element": "class_i7bl11lzj_mwu5usj8_eo8",
                   "multiplicity": "0..*",
-                  "role": "Mencatat sebagai petugas",
+                  "role": "Menulis",
                   "navigable": true,
                   "bounds": {
                     "x": 0,
@@ -2784,7 +2706,7 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
               },
               "rel_5kmv1j6ci_mwu5usjc_84n": {
                 "id": "rel_5kmv1j6ci_mwu5usjc_84n",
@@ -2792,33 +2714,41 @@
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": -630,
-                  "y": -536,
-                  "width": 370,
-                  "height": 330
+                  "x": -620,
+                  "y": -465,
+                  "width": 365.796875,
+                  "height": 315.5
                 },
                 "path": [
                   {
-                    "x": 0,
-                    "y": 0
+                    "x": 40,
+                    "y": 10
                   },
                   {
                     "x": 0,
-                    "y": 176
+                    "y": 10
                   },
                   {
-                    "x": 370,
-                    "y": 176
+                    "x": 0,
+                    "y": 195
                   },
                   {
-                    "x": 370,
-                    "y": 330
+                    "x": 300,
+                    "y": 195
+                  },
+                  {
+                    "x": 300,
+                    "y": 277.5
+                  },
+                  {
+                    "x": 260,
+                    "y": 277.5
                   }
                 ],
                 "source": {
-                  "direction": "Down",
+                  "direction": "Left",
                   "element": "class_71osc72gz_mwu5usj9_7r7",
-                  "multiplicity": "0..1",
+                  "multiplicity": "0..*",
                   "role": "",
                   "navigable": true,
                   "bounds": {
@@ -2829,7 +2759,7 @@
                   }
                 },
                 "target": {
-                  "direction": "Up",
+                  "direction": "Right",
                   "element": "class_8flepo9s7_mwu5usja_t83",
                   "multiplicity": "0..*",
                   "role": "Memverifikasi",
@@ -2841,7 +2771,7 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
               },
               "rel_5wjshjwsa_mwu5usjc_f3t": {
                 "id": "rel_5wjshjwsa_mwu5usjc_f3t",
@@ -2849,31 +2779,39 @@
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": -710,
-                  "y": -536,
-                  "width": 330,
-                  "height": 330
+                  "x": -620,
+                  "y": -465,
+                  "width": 723.25,
+                  "height": 595.5
                 },
                 "path": [
                   {
-                    "x": 0,
-                    "y": 0
+                    "x": 40,
+                    "y": 10
                   },
                   {
                     "x": 0,
-                    "y": 250
+                    "y": 10
                   },
                   {
-                    "x": 330,
-                    "y": 250
+                    "x": 0,
+                    "y": 195
                   },
                   {
-                    "x": 330,
-                    "y": 330
+                    "x": 660,
+                    "y": 195
+                  },
+                  {
+                    "x": 660,
+                    "y": 557.5
+                  },
+                  {
+                    "x": 620,
+                    "y": 557.5
                   }
                 ],
                 "source": {
-                  "direction": "Down",
+                  "direction": "Left",
                   "element": "class_71osc72gz_mwu5usj9_7r7",
                   "multiplicity": "1",
                   "role": "",
@@ -2886,8 +2824,8 @@
                   }
                 },
                 "target": {
-                  "direction": "Up",
-                  "element": "class_8flepo9s7_mwu5usja_t83",
+                  "direction": "Right",
+                  "element": "class_rdkxkd7og_mwu5usjb_5y8",
                   "multiplicity": "0..*",
                   "role": "Memasukkan",
                   "navigable": true,
@@ -2898,41 +2836,171 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
+              },
+              "rel_8h9s5rc98_mwu5usjc_ntj": {
+                "id": "rel_8h9s5rc98_mwu5usjc_ntj",
+                "name": "DijabarkanMenjadi",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": -720,
+                  "y": 82.5,
+                  "width": 500,
+                  "height": 328
+                },
+                "path": [
+                  {
+                    "x": 500,
+                    "y": 10
+                  },
+                  {
+                    "x": 250,
+                    "y": 10
+                  },
+                  {
+                    "x": 250,
+                    "y": 290
+                  },
+                  {
+                    "x": 0,
+                    "y": 290
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_rdkxkd7og_mwu5usjb_5y8",
+                  "multiplicity": null,
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_2q0nj1a4k_mwu5usjb_sur",
+                  "multiplicity": null,
+                  "role": null,
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_dueuoneig_mwu5usjc_om7": {
+                "id": "rel_dueuoneig_mwu5usjc_om7",
+                "name": "MenjadiLokasiPenugasan",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": -980,
+                  "y": -465,
+                  "width": 660,
+                  "height": 875.5
+                },
+                "path": [
+                  {
+                    "x": 40,
+                    "y": 837.5
+                  },
+                  {
+                    "x": 0,
+                    "y": 837.5
+                  },
+                  {
+                    "x": 0,
+                    "y": 665
+                  },
+                  {
+                    "x": 660,
+                    "y": 665
+                  },
+                  {
+                    "x": 660,
+                    "y": 10
+                  },
+                  {
+                    "x": 620,
+                    "y": 10
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_2q0nj1a4k_mwu5usjb_sur",
+                  "multiplicity": null,
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_71osc72gz_mwu5usj9_7r7",
+                  "multiplicity": null,
+                  "role": null,
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
               },
               "rel_i17djselk_mwu5usjc_4tc": {
                 "id": "rel_i17djselk_mwu5usjc_4tc",
-                "name": "Memiliki data",
+                "name": "MemilikiData",
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": -146,
-                  "y": -826,
-                  "width": 224,
-                  "height": 620
+                  "x": -980,
+                  "y": -360,
+                  "width": 660,
+                  "height": 235.5
                 },
                 "path": [
                   {
-                    "x": 224,
+                    "x": 40,
+                    "y": 197.5
+                  },
+                  {
+                    "x": 0,
+                    "y": 197.5
+                  },
+                  {
+                    "x": 0,
                     "y": 0
                   },
                   {
-                    "x": 224,
-                    "y": 366
+                    "x": 660,
+                    "y": 0
                   },
                   {
-                    "x": 0,
-                    "y": 366
+                    "x": 660,
+                    "y": 172.5
                   },
                   {
-                    "x": 0,
-                    "y": 620
+                    "x": 620,
+                    "y": 172.5
                   }
                 ],
                 "source": {
-                  "direction": "Down",
+                  "direction": "Left",
                   "element": "class_3gep3usph_mwu5usja_y8n",
-                  "multiplicity": "1",
+                  "multiplicity": null,
                   "role": "",
                   "navigable": true,
                   "bounds": {
@@ -2943,10 +3011,10 @@
                   }
                 },
                 "target": {
-                  "direction": "Up",
+                  "direction": "Right",
                   "element": "class_8flepo9s7_mwu5usja_t83",
-                  "multiplicity": "0..*",
-                  "role": "Memiliki data",
+                  "multiplicity": null,
+                  "role": null,
                   "navigable": true,
                   "bounds": {
                     "x": 0,
@@ -2955,41 +3023,49 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
               },
               "rel_kzh9tty1p_mwu5usjd_p6q": {
                 "id": "rel_kzh9tty1p_mwu5usjd_p6q",
-                "name": "Memiliki Posko",
+                "name": "MemilikiPosko",
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": 238,
-                  "y": -826,
-                  "width": 162,
-                  "height": 620
+                  "x": -980,
+                  "y": -360,
+                  "width": 1020,
+                  "height": 235.5
                 },
                 "path": [
+                  {
+                    "x": 40,
+                    "y": 197.5
+                  },
+                  {
+                    "x": 0,
+                    "y": 197.5
+                  },
                   {
                     "x": 0,
                     "y": 0
                   },
                   {
-                    "x": 0,
-                    "y": 420
+                    "x": 1020,
+                    "y": 0
                   },
                   {
-                    "x": 162,
-                    "y": 420
+                    "x": 1020,
+                    "y": 160
                   },
                   {
-                    "x": 162,
-                    "y": 620
+                    "x": 980,
+                    "y": 160
                   }
                 ],
                 "source": {
-                  "direction": "Down",
+                  "direction": "Left",
                   "element": "class_3gep3usph_mwu5usja_y8n",
-                  "multiplicity": "1",
+                  "multiplicity": null,
                   "role": "",
                   "navigable": true,
                   "bounds": {
@@ -3000,10 +3076,10 @@
                   }
                 },
                 "target": {
-                  "direction": "Up",
+                  "direction": "Right",
                   "element": "class_k7a3yog3v_mwu5usjb_64i",
-                  "multiplicity": "0..*",
-                  "role": "Memiliki Posko",
+                  "multiplicity": null,
+                  "role": null,
                   "navigable": true,
                   "bounds": {
                     "x": 0,
@@ -3012,41 +3088,49 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
               },
               "rel_myq4xfl5m_mwu5usjd_w78": {
                 "id": "rel_myq4xfl5m_mwu5usjd_w78",
-                "name": "Menerima distribusi",
+                "name": "MenerimaDistribusi",
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": 480,
-                  "y": -737,
-                  "width": 240,
-                  "height": 531
+                  "x": -980,
+                  "y": -172.5,
+                  "width": 660,
+                  "height": 533
                 },
                 "path": [
                   {
-                    "x": 0,
-                    "y": 531
+                    "x": 40,
+                    "y": 10
                   },
                   {
                     "x": 0,
-                    "y": 277
+                    "y": 10
                   },
                   {
-                    "x": 240,
-                    "y": 277
+                    "x": 0,
+                    "y": 207.5
                   },
                   {
-                    "x": 240,
-                    "y": 0
+                    "x": 660,
+                    "y": 207.5
+                  },
+                  {
+                    "x": 660,
+                    "y": 495
+                  },
+                  {
+                    "x": 620,
+                    "y": 495
                   }
                 ],
                 "source": {
-                  "direction": "Up",
-                  "element": "class_k7a3yog3v_mwu5usjb_64i",
-                  "multiplicity": "1",
+                  "direction": "Left",
+                  "element": "class_3gep3usph_mwu5usja_y8n",
+                  "multiplicity": null,
                   "role": "",
                   "navigable": true,
                   "bounds": {
@@ -3057,10 +3141,10 @@
                   }
                 },
                 "target": {
-                  "direction": "Down",
+                  "direction": "Right",
                   "element": "class_i7ngzjr5m_mwu5usjb_pwk",
-                  "multiplicity": "0..*",
-                  "role": "Menerima distribusi",
+                  "multiplicity": null,
+                  "role": null,
                   "navigable": true,
                   "bounds": {
                     "x": 0,
@@ -3069,7 +3153,7 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
               },
               "rel_o4nmjdsjr_mwu5usjd_esv": {
                 "id": "rel_o4nmjdsjr_mwu5usjd_esv",
@@ -3077,27 +3161,39 @@
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": 890,
-                  "y": -737,
-                  "width": 220,
-                  "height": 217
+                  "x": -620,
+                  "y": 200,
+                  "width": 758.71875,
+                  "height": 160.5
                 },
                 "path": [
+                  {
+                    "x": 40,
+                    "y": 122.5
+                  },
+                  {
+                    "x": 0,
+                    "y": 122.5
+                  },
                   {
                     "x": 0,
                     "y": 0
                   },
                   {
-                    "x": 0,
-                    "y": 217
+                    "x": 660,
+                    "y": 0
                   },
                   {
-                    "x": 220,
-                    "y": 217
+                    "x": 660,
+                    "y": 122.5
+                  },
+                  {
+                    "x": 620,
+                    "y": 122.5
                   }
                 ],
                 "source": {
-                  "direction": "Down",
+                  "direction": "Left",
                   "element": "class_i7ngzjr5m_mwu5usjb_pwk",
                   "multiplicity": "0..*",
                   "role": "",
@@ -3110,7 +3206,7 @@
                   }
                 },
                 "target": {
-                  "direction": "Left",
+                  "direction": "Right",
                   "element": "class_onq76q4lo_mwu5usjb_c7r",
                   "multiplicity": "1",
                   "role": "Disalurkan melalui",
@@ -3122,7 +3218,7 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
               },
               "rel_qqjtfokls_mwu5usjd_go2": {
                 "id": "rel_qqjtfokls_mwu5usjd_go2",
@@ -3130,33 +3226,33 @@
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": 940,
-                  "y": -465,
-                  "width": 330,
-                  "height": 259
+                  "x": -720,
+                  "y": 312.5,
+                  "width": 500,
+                  "height": 340.5
                 },
                 "path": [
                   {
-                    "x": 330,
-                    "y": 0
+                    "x": 500,
+                    "y": 10
                   },
                   {
-                    "x": 330,
-                    "y": 185
+                    "x": 250,
+                    "y": 10
+                  },
+                  {
+                    "x": 250,
+                    "y": 302.5
                   },
                   {
                     "x": 0,
-                    "y": 185
-                  },
-                  {
-                    "x": 0,
-                    "y": 259
+                    "y": 302.5
                   }
                 ],
                 "source": {
-                  "direction": "Down",
+                  "direction": "Left",
                   "element": "class_onq76q4lo_mwu5usjb_c7r",
-                  "multiplicity": "1",
+                  "multiplicity": "0..*",
                   "role": "",
                   "navigable": true,
                   "bounds": {
@@ -3167,9 +3263,9 @@
                   }
                 },
                 "target": {
-                  "direction": "Up",
+                  "direction": "Right",
                   "element": "class_05et6q8k7_mwu5usjc_jie",
-                  "multiplicity": "0..*",
+                  "multiplicity": "1",
                   "role": "dibutuhkan dalam",
                   "navigable": true,
                   "bounds": {
@@ -3179,7 +3275,7 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
               },
               "rel_9g5avwaw4_mwu5usjd_dwx": {
                 "id": "rel_9g5avwaw4_mwu5usjd_dwx",
@@ -3187,37 +3283,41 @@
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": 560,
-                  "y": -26,
-                  "width": 410,
-                  "height": 208
+                  "x": -980,
+                  "y": -172.5,
+                  "width": 407.7265625,
+                  "height": 825.5
                 },
                 "path": [
                   {
-                    "x": 0,
-                    "y": 0
-                  },
-                  {
-                    "x": 98,
-                    "y": 0
-                  },
-                  {
-                    "x": 98,
-                    "y": 208
-                  },
-                  {
-                    "x": 410,
-                    "y": 208
-                  },
-                  {
-                    "x": 410,
+                    "x": 40,
                     "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 207.5
+                  },
+                  {
+                    "x": 300,
+                    "y": 207.5
+                  },
+                  {
+                    "x": 300,
+                    "y": 787.5
+                  },
+                  {
+                    "x": 260,
+                    "y": 787.5
                   }
                 ],
                 "source": {
-                  "direction": "Right",
-                  "element": "class_k7a3yog3v_mwu5usjb_64i",
-                  "multiplicity": "1",
+                  "direction": "Left",
+                  "element": "class_3gep3usph_mwu5usja_y8n",
+                  "multiplicity": "0..*",
                   "role": "",
                   "navigable": true,
                   "bounds": {
@@ -3228,9 +3328,9 @@
                   }
                 },
                 "target": {
-                  "direction": "Down",
+                  "direction": "Right",
                   "element": "class_05et6q8k7_mwu5usjc_jie",
-                  "multiplicity": "0..*",
+                  "multiplicity": "1",
                   "role": "Memiliki Kebutuhan",
                   "navigable": true,
                   "bounds": {
@@ -3240,280 +3340,7 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
-              },
-              "ef7fa06a-eb7b-5416-97a1-029c891e1550": {
-                "id": "ef7fa06a-eb7b-5416-97a1-029c891e1550",
-                "name": "Memberikan sebagai petugas",
-                "type": "ClassBidirectional",
-                "owner": null,
-                "bounds": {
-                  "x": -910,
-                  "y": -536,
-                  "width": 60,
-                  "height": 1452
-                },
-                "path": [
-                  {
-                    "x": 60,
-                    "y": 0
-                  },
-                  {
-                    "x": 60,
-                    "y": 656
-                  },
-                  {
-                    "x": 0,
-                    "y": 656
-                  },
-                  {
-                    "x": 0,
-                    "y": 1452
-                  }
-                ],
-                "source": {
-                  "direction": "Down",
-                  "element": "class_71osc72gz_mwu5usj9_7r7",
-                  "multiplicity": "1",
-                  "role": "",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "target": {
-                  "direction": "Up",
-                  "element": "class_2q0nj1a4k_mwu5usjb_sur",
-                  "multiplicity": "0..*",
-                  "role": "Memberikan sebagai petugas",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "isManuallyLayouted": true
-              },
-              "687bb7b1-312d-5410-9722-6bf9264817e9": {
-                "id": "687bb7b1-312d-5410-9722-6bf9264817e9",
-                "name": "Menerima sebagai relawan",
-                "type": "ClassBidirectional",
-                "owner": null,
-                "bounds": {
-                  "x": -780,
-                  "y": -536,
-                  "width": 0,
-                  "height": 1452
-                },
-                "path": [
-                  {
-                    "x": 0,
-                    "y": 0
-                  },
-                  {
-                    "x": 0,
-                    "y": 1452
-                  }
-                ],
-                "source": {
-                  "direction": "Down",
-                  "element": "class_71osc72gz_mwu5usj9_7r7",
-                  "multiplicity": "1",
-                  "role": "",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "target": {
-                  "direction": "Up",
-                  "element": "class_2q0nj1a4k_mwu5usjb_sur",
-                  "multiplicity": "0..*",
-                  "role": "Menerima sebagai relawan",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "isManuallyLayouted": true
-              },
-              "rel_8h9s5rc98_mwu5usjc_ntj": {
-                "id": "rel_8h9s5rc98_mwu5usjc_ntj",
-                "name": "Dijabarkan menjadi",
-                "type": "ClassBidirectional",
-                "owner": null,
-                "bounds": {
-                  "x": -1270,
-                  "y": 91,
-                  "width": 320,
-                  "height": 947
-                },
-                "path": [
-                  {
-                    "x": 0,
-                    "y": 0
-                  },
-                  {
-                    "x": 0,
-                    "y": 947
-                  },
-                  {
-                    "x": 320,
-                    "y": 947
-                  }
-                ],
-                "source": {
-                  "direction": "Down",
-                  "element": "class_rdkxkd7og_mwu5usjb_5y8",
-                  "multiplicity": "0..*",
-                  "role": "",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "target": {
-                  "direction": "Left",
-                  "element": "class_2q0nj1a4k_mwu5usjb_sur",
-                  "multiplicity": "0..1",
-                  "role": "Dijabarkan menjadi",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "isManuallyLayouted": true
-              },
-              "e85454f5-4a34-524a-8810-e60fd1761911": {
-                "id": "e85454f5-4a34-524a-8810-e60fd1761911",
-                "name": "Menampung",
-                "type": "ClassBidirectional",
-                "owner": null,
-                "bounds": {
-                  "x": 70,
-                  "y": 34,
-                  "width": 330,
-                  "height": 320
-                },
-                "path": [
-                  {
-                    "x": 330,
-                    "y": 0
-                  },
-                  {
-                    "x": 330,
-                    "y": 216
-                  },
-                  {
-                    "x": 0,
-                    "y": 216
-                  },
-                  {
-                    "x": 0,
-                    "y": 320
-                  }
-                ],
-                "source": {
-                  "direction": "Down",
-                  "element": "class_k7a3yog3v_mwu5usjb_64i",
-                  "multiplicity": "0..1",
-                  "role": "",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "target": {
-                  "direction": "Up",
-                  "element": "class_pfgqypwe2_mwu5usjb_1vd",
-                  "multiplicity": "0..*",
-                  "role": "Menampung",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "isManuallyLayouted": true
-              },
-              "rel_dueuoneig_mwu5usjc_om7": {
-                "id": "rel_dueuoneig_mwu5usjc_om7",
-                "name": "Menjadi lokasi penugasan",
-                "type": "ClassBidirectional",
-                "owner": null,
-                "bounds": {
-                  "x": -700,
-                  "y": 34,
-                  "width": 1180,
-                  "height": 882
-                },
-                "path": [
-                  {
-                    "x": 0,
-                    "y": 882
-                  },
-                  {
-                    "x": 0,
-                    "y": 776
-                  },
-                  {
-                    "x": 1180,
-                    "y": 776
-                  },
-                  {
-                    "x": 1180,
-                    "y": 0
-                  }
-                ],
-                "source": {
-                  "direction": "Up",
-                  "element": "class_2q0nj1a4k_mwu5usjb_sur",
-                  "multiplicity": "0..*",
-                  "role": "",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "target": {
-                  "direction": "Down",
-                  "element": "class_k7a3yog3v_mwu5usjb_64i",
-                  "multiplicity": "1",
-                  "role": "Menjadi lokasi penugasan",
-                  "navigable": true,
-                  "bounds": {
-                    "x": 0,
-                    "y": 0,
-                    "width": 0,
-                    "height": 0
-                  }
-                },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
               },
               "rel_gry3c2dx3_mwu606of_efe": {
                 "id": "rel_gry3c2dx3_mwu606of_efe",
@@ -3521,29 +3348,49 @@
                 "type": "ClassInheritance",
                 "owner": null,
                 "bounds": {
-                  "x": -370,
-                  "y": 59,
-                  "width": 0,
-                  "height": 287
+                  "x": -980,
+                  "y": -197.5,
+                  "width": 660,
+                  "height": 303
                 },
                 "path": [
                   {
-                    "x": 0,
-                    "y": 287
+                    "x": 40,
+                    "y": 265
                   },
                   {
                     "x": 0,
-                    "y": 205
+                    "y": 265
                   },
                   {
                     "x": 0,
-                    "y": 0
+                    "y": 117.5
+                  },
+                  {
+                    "x": 330,
+                    "y": 117.5
+                  },
+                  {
+                    "x": 330,
+                    "y": 182.5
+                  },
+                  {
+                    "x": 660,
+                    "y": 182.5
+                  },
+                  {
+                    "x": 660,
+                    "y": 10
+                  },
+                  {
+                    "x": 620,
+                    "y": 10
                   }
                 ],
                 "source": {
-                  "direction": "Up",
+                  "direction": "Left",
                   "element": "class_ztevpoz1o_mwu5usjb_ifm",
-                  "multiplicity": "",
+                  "multiplicity": "1",
                   "role": "",
                   "navigable": true,
                   "bounds": {
@@ -3554,9 +3401,9 @@
                   }
                 },
                 "target": {
-                  "direction": "Down",
+                  "direction": "Right",
                   "element": "class_8flepo9s7_mwu5usja_t83",
-                  "multiplicity": "",
+                  "multiplicity": "*",
                   "role": "",
                   "navigable": true,
                   "bounds": {
@@ -3566,7 +3413,7 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
               },
               "rel_cwcnl4bgp_mwu606og_yae": {
                 "id": "rel_cwcnl4bgp_mwu606og_yae",
@@ -3574,33 +3421,41 @@
                 "type": "ClassInheritance",
                 "owner": null,
                 "bounds": {
-                  "x": -260,
-                  "y": 59,
-                  "width": 170,
-                  "height": 295
+                  "x": -620,
+                  "y": -197.5,
+                  "width": 300,
+                  "height": 290.5
                 },
                 "path": [
                   {
-                    "x": 170,
-                    "y": 295
-                  },
-                  {
-                    "x": 170,
-                    "y": 221
+                    "x": 40,
+                    "y": 252.5
                   },
                   {
                     "x": 0,
-                    "y": 221
+                    "y": 252.5
                   },
                   {
                     "x": 0,
-                    "y": 0
+                    "y": 117.5
+                  },
+                  {
+                    "x": 300,
+                    "y": 117.5
+                  },
+                  {
+                    "x": 300,
+                    "y": 10
+                  },
+                  {
+                    "x": 260,
+                    "y": 10
                   }
                 ],
                 "source": {
-                  "direction": "Up",
+                  "direction": "Left",
                   "element": "class_pfgqypwe2_mwu5usjb_1vd",
-                  "multiplicity": "",
+                  "multiplicity": "1",
                   "role": "",
                   "navigable": true,
                   "bounds": {
@@ -3611,9 +3466,9 @@
                   }
                 },
                 "target": {
-                  "direction": "Down",
+                  "direction": "Right",
                   "element": "class_8flepo9s7_mwu5usja_t83",
-                  "multiplicity": "",
+                  "multiplicity": "*",
                   "role": "",
                   "navigable": true,
                   "bounds": {
@@ -3623,12 +3478,12 @@
                     "height": 0
                   }
                 },
-                "isManuallyLayouted": true
+                "isManuallyLayouted": false
               }
             },
             "assessments": {}
           },
-          "lastUpdate": "2026-11-24T05:24:15.899Z"
+          "lastUpdate": "2026-11-24T05:25:04.229Z"
         }
       ]
     },
@@ -3730,18 +3585,6 @@
       "updatedAt": "2026-11-24T04:17:11.411Z"
     },
     "attribution": {
-      "687bb7b1-312d-5410-9722-6bf9264817e9": {
-        "addedBy": "BolFengxi",
-        "addedAt": "2026-11-24T05:24:17Z"
-      },
-      "6e6a90b7-0a1e-5a04-af9c-d9e2a6f941e9": {
-        "addedBy": "BolFengxi",
-        "addedAt": "2026-11-24T05:24:17Z"
-      },
-      "87f806d1-da76-57cb-964d-328d4e1e382e": {
-        "addedBy": "BolFengxi",
-        "addedAt": "2026-11-24T05:24:17Z"
-      },
       "attr_079g8dkw4_mwu5usjb_iob": {
         "addedBy": "BolFengxi",
         "addedAt": "2026-11-24T03:54:41Z"
@@ -3753,6 +3596,10 @@
       "attr_364laeuih_mwu5usjb_873": {
         "addedBy": "BolFengxi",
         "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_41fx82glm_mwu5usjb_rlm": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T05:25:06Z"
       },
       "attr_4qjpe5snj_mwu5usjc_kzr": {
         "addedBy": "BolFengxi",
@@ -3994,10 +3841,6 @@
         "addedBy": "BolFengxi",
         "addedAt": "2026-11-24T03:54:41Z"
       },
-      "c26b8efd-0b0e-5d61-8e1d-430c9cec5b5e": {
-        "addedBy": "BolFengxi",
-        "addedAt": "2026-11-24T05:24:17Z"
-      },
       "class_05et6q8k7_mwu5usjc_jie": {
         "addedBy": "BolFengxi",
         "addedAt": "2026-11-24T03:54:41Z"
@@ -4049,14 +3892,6 @@
       "class_ztevpoz1o_mwu5usjb_ifm": {
         "addedBy": "BolFengxi",
         "addedAt": "2026-11-24T03:54:41Z"
-      },
-      "e85454f5-4a34-524a-8810-e60fd1761911": {
-        "addedBy": "BolFengxi",
-        "addedAt": "2026-11-24T05:24:17Z"
-      },
-      "ef7fa06a-eb7b-5416-97a1-029c891e1550": {
-        "addedBy": "BolFengxi",
-        "addedAt": "2026-11-24T05:24:17Z"
       },
       "method_0950zqxhq_mwu5usjc_4w6": {
         "addedBy": "BolFengxi",
@@ -4244,7 +4079,7 @@
       }
     }
   },
-  "exportedAt": "2026-11-24T05:24:16.477Z",
+  "exportedAt": "2026-11-24T05:25:04.815Z",
   "version": "2.0.0",
   "editorVersion": "8.9.4"
 }
