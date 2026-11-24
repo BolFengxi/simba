@@ -22,7 +22,3335 @@
       "NNDiagram": 0,
       "BPMN": 0
     },
-    "diagrams": {},
+    "diagrams": {
+      "ClassDiagram": [
+        {
+          "id": "d732c025-c947-4f1c-bf4d-4937b3efe9c1",
+          "title": "Class Diagram",
+          "model": {
+            "version": "3.0.0",
+            "type": "ClassDiagram",
+            "size": {
+              "width": 2000,
+              "height": 1540
+            },
+            "interactive": {
+              "elements": {},
+              "relationships": {}
+            },
+            "elements": {
+              "class_i7bl11lzj_mwu5usj8_eo8": {
+                "id": "class_i7bl11lzj_mwu5usj8_eo8",
+                "name": "Pesan",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -940,
+                  "y": -600,
+                  "width": 220,
+                  "height": 140
+                },
+                "attributes": [
+                  "attr_ioyo1gdtk_mwu5usj8_u54",
+                  "attr_lwwu40el7_mwu5usj8_bme",
+                  "attr_w8nc7vvia_mwu5usj8_m77"
+                ],
+                "methods": [
+                  "method_e0g2u4oqh_mwu5usj9_yx7"
+                ]
+              },
+              "attr_ioyo1gdtk_mwu5usj8_u54": {
+                "id": "attr_ioyo1gdtk_mwu5usj8_u54",
+                "name": "idPesan",
+                "type": "ClassAttribute",
+                "owner": "class_i7bl11lzj_mwu5usj8_eo8",
+                "bounds": {
+                  "x": -939.5,
+                  "y": -559.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_lwwu40el7_mwu5usj8_bme": {
+                "id": "attr_lwwu40el7_mwu5usj8_bme",
+                "name": "isiPesan",
+                "type": "ClassAttribute",
+                "owner": "class_i7bl11lzj_mwu5usj8_eo8",
+                "bounds": {
+                  "x": -939.5,
+                  "y": -534.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_w8nc7vvia_mwu5usj8_m77": {
+                "id": "attr_w8nc7vvia_mwu5usj8_m77",
+                "name": "waktuKirim",
+                "type": "ClassAttribute",
+                "owner": "class_i7bl11lzj_mwu5usj8_eo8",
+                "bounds": {
+                  "x": -939.5,
+                  "y": -509.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_e0g2u4oqh_mwu5usj9_yx7": {
+                "id": "method_e0g2u4oqh_mwu5usj9_yx7",
+                "name": "kirim()",
+                "type": "ClassMethod",
+                "owner": "class_i7bl11lzj_mwu5usj8_eo8",
+                "bounds": {
+                  "x": -939.5,
+                  "y": -484.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "class_71osc72gz_mwu5usj9_7r7": {
+                "id": "class_71osc72gz_mwu5usj9_7r7",
+                "name": "Pengguna",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -580,
+                  "y": -600,
+                  "width": 220,
+                  "height": 290
+                },
+                "attributes": [
+                  "attr_fsd02i88x_mwu5usj9_jro",
+                  "attr_pm7z7u6fq_mwu5usj9_za3",
+                  "attr_d9hsmo88y_mwu5usj9_3x7",
+                  "attr_obf72fzg2_mwu5usj9_0bm",
+                  "attr_5fqo61ri4_mwu5usj9_bhc",
+                  "attr_fygzwc9do_mwu5usj9_ds7"
+                ],
+                "methods": [
+                  "method_t3mlq35me_mwu5usj9_ech",
+                  "method_gwjxjy18l_mwu5usj9_u82",
+                  "method_f93nj7egm_mwu5usj9_yso",
+                  "method_23drs7gzu_mwu5usj9_kjj"
+                ]
+              },
+              "attr_fsd02i88x_mwu5usj9_jro": {
+                "id": "attr_fsd02i88x_mwu5usj9_jro",
+                "name": "idPengguna",
+                "type": "ClassAttribute",
+                "owner": "class_71osc72gz_mwu5usj9_7r7",
+                "bounds": {
+                  "x": -579.5,
+                  "y": -559.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_pm7z7u6fq_mwu5usj9_za3": {
+                "id": "attr_pm7z7u6fq_mwu5usj9_za3",
+                "name": "nama",
+                "type": "ClassAttribute",
+                "owner": "class_71osc72gz_mwu5usj9_7r7",
+                "bounds": {
+                  "x": -579.5,
+                  "y": -534.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_d9hsmo88y_mwu5usj9_3x7": {
+                "id": "attr_d9hsmo88y_mwu5usj9_3x7",
+                "name": "alamat",
+                "type": "ClassAttribute",
+                "owner": "class_71osc72gz_mwu5usj9_7r7",
+                "bounds": {
+                  "x": -579.5,
+                  "y": -509.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_obf72fzg2_mwu5usj9_0bm": {
+                "id": "attr_obf72fzg2_mwu5usj9_0bm",
+                "name": "email",
+                "type": "ClassAttribute",
+                "owner": "class_71osc72gz_mwu5usj9_7r7",
+                "bounds": {
+                  "x": -579.5,
+                  "y": -484.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_5fqo61ri4_mwu5usj9_bhc": {
+                "id": "attr_5fqo61ri4_mwu5usj9_bhc",
+                "name": "kataSandiHash",
+                "type": "ClassAttribute",
+                "owner": "class_71osc72gz_mwu5usj9_7r7",
+                "bounds": {
+                  "x": -579.5,
+                  "y": -459.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_fygzwc9do_mwu5usj9_ds7": {
+                "id": "attr_fygzwc9do_mwu5usj9_ds7",
+                "name": "peran",
+                "type": "ClassAttribute",
+                "owner": "class_71osc72gz_mwu5usj9_7r7",
+                "bounds": {
+                  "x": -579.5,
+                  "y": -434.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_t3mlq35me_mwu5usj9_ech": {
+                "id": "method_t3mlq35me_mwu5usj9_ech",
+                "name": "registrasi()",
+                "type": "ClassMethod",
+                "owner": "class_71osc72gz_mwu5usj9_7r7",
+                "bounds": {
+                  "x": -579.5,
+                  "y": -409.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_gwjxjy18l_mwu5usj9_u82": {
+                "id": "method_gwjxjy18l_mwu5usj9_u82",
+                "name": "login()",
+                "type": "ClassMethod",
+                "owner": "class_71osc72gz_mwu5usj9_7r7",
+                "bounds": {
+                  "x": -579.5,
+                  "y": -384.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_f93nj7egm_mwu5usj9_yso": {
+                "id": "method_f93nj7egm_mwu5usj9_yso",
+                "name": "logout()",
+                "type": "ClassMethod",
+                "owner": "class_71osc72gz_mwu5usj9_7r7",
+                "bounds": {
+                  "x": -579.5,
+                  "y": -359.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_23drs7gzu_mwu5usj9_kjj": {
+                "id": "method_23drs7gzu_mwu5usj9_kjj",
+                "name": "isPeran(peran: str)",
+                "type": "ClassMethod",
+                "owner": "class_71osc72gz_mwu5usj9_7r7",
+                "bounds": {
+                  "x": -579.5,
+                  "y": -334.5,
+                  "width": 219,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "bool",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "class_fgoilmjt3_mwu5usj9_a6h": {
+                "id": "class_fgoilmjt3_mwu5usj9_a6h",
+                "name": "Percakapan",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -220,
+                  "y": -600,
+                  "width": 220,
+                  "height": 230
+                },
+                "attributes": [
+                  "attr_qripl63pi_mwu5usj9_f71",
+                  "attr_jf8ritjx4_mwu5usj9_26l",
+                  "attr_jvlq9cfme_mwu5usj9_jm2"
+                ],
+                "methods": [
+                  "method_xw1mecvwl_mwu5usj9_l3z",
+                  "method_i8qo6fudj_mwu5usja_14u",
+                  "method_ijs3e466p_mwu5usja_zuz"
+                ]
+              },
+              "attr_qripl63pi_mwu5usj9_f71": {
+                "id": "attr_qripl63pi_mwu5usj9_f71",
+                "name": "idPercakapan",
+                "type": "ClassAttribute",
+                "owner": "class_fgoilmjt3_mwu5usj9_a6h",
+                "bounds": {
+                  "x": -219,
+                  "y": -550,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_jf8ritjx4_mwu5usj9_26l": {
+                "id": "attr_jf8ritjx4_mwu5usj9_26l",
+                "name": "namaPercakapan",
+                "type": "ClassAttribute",
+                "owner": "class_fgoilmjt3_mwu5usj9_a6h",
+                "bounds": {
+                  "x": -219,
+                  "y": -525,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_jvlq9cfme_mwu5usj9_jm2": {
+                "id": "attr_jvlq9cfme_mwu5usj9_jm2",
+                "name": "waktuDibuat",
+                "type": "ClassAttribute",
+                "owner": "class_fgoilmjt3_mwu5usj9_a6h",
+                "bounds": {
+                  "x": -219,
+                  "y": -500,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_xw1mecvwl_mwu5usj9_l3z": {
+                "id": "method_xw1mecvwl_mwu5usj9_l3z",
+                "name": "tambahPeserta(pengguna: Pengguna)",
+                "type": "ClassMethod",
+                "owner": "class_fgoilmjt3_mwu5usj9_a6h",
+                "bounds": {
+                  "x": -219,
+                  "y": -465,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_i8qo6fudj_mwu5usja_14u": {
+                "id": "method_i8qo6fudj_mwu5usja_14u",
+                "name": "tambahPesan(pesan: Pesan)",
+                "type": "ClassMethod",
+                "owner": "class_fgoilmjt3_mwu5usj9_a6h",
+                "bounds": {
+                  "x": -219,
+                  "y": -440,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_ijs3e466p_mwu5usja_zuz": {
+                "id": "method_ijs3e466p_mwu5usja_zuz",
+                "name": "ambilRiwayatPesan()",
+                "type": "ClassMethod",
+                "owner": "class_fgoilmjt3_mwu5usj9_a6h",
+                "bounds": {
+                  "x": -219,
+                  "y": -415,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "List<Pesan>",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "class_3gep3usph_mwu5usja_y8n": {
+                "id": "class_3gep3usph_mwu5usja_y8n",
+                "name": "Bencana",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -940,
+                  "y": -320,
+                  "width": 220,
+                  "height": 355
+                },
+                "attributes": [
+                  "attr_77d18ng8i_mwu5usja_1wj",
+                  "attr_enyeaj06c_mwu5usja_tyj",
+                  "attr_6p2ujpikl_mwu5usja_uxr",
+                  "attr_nalcz90mr_mwu5usja_k4j",
+                  "attr_vcbkwnv49_mwu5usja_9f8",
+                  "attr_ahzlhyi76_mwu5usja_a7s",
+                  "attr_56rjzln4g_mwu5usja_tsz",
+                  "attr_n9yzhgdms_mwu5usja_v6m"
+                ],
+                "methods": [
+                  "method_7rn3kk3rx_mwu5usja_3l2",
+                  "method_4jbvzgh5z_mwu5usja_jju",
+                  "method_7qdx5fnys_mwu5usja_d1n"
+                ]
+              },
+              "attr_77d18ng8i_mwu5usja_1wj": {
+                "id": "attr_77d18ng8i_mwu5usja_1wj",
+                "name": "idBencana",
+                "type": "ClassAttribute",
+                "owner": "class_3gep3usph_mwu5usja_y8n",
+                "bounds": {
+                  "x": -939,
+                  "y": -270,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_enyeaj06c_mwu5usja_tyj": {
+                "id": "attr_enyeaj06c_mwu5usja_tyj",
+                "name": "namaBencana",
+                "type": "ClassAttribute",
+                "owner": "class_3gep3usph_mwu5usja_y8n",
+                "bounds": {
+                  "x": -939,
+                  "y": -245,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_6p2ujpikl_mwu5usja_uxr": {
+                "id": "attr_6p2ujpikl_mwu5usja_uxr",
+                "name": "deskripsi",
+                "type": "ClassAttribute",
+                "owner": "class_3gep3usph_mwu5usja_y8n",
+                "bounds": {
+                  "x": -939,
+                  "y": -220,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_nalcz90mr_mwu5usja_k4j": {
+                "id": "attr_nalcz90mr_mwu5usja_k4j",
+                "name": "tanggalKejadian",
+                "type": "ClassAttribute",
+                "owner": "class_3gep3usph_mwu5usja_y8n",
+                "bounds": {
+                  "x": -939,
+                  "y": -195,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_vcbkwnv49_mwu5usja_9f8": {
+                "id": "attr_vcbkwnv49_mwu5usja_9f8",
+                "name": "wilayah",
+                "type": "ClassAttribute",
+                "owner": "class_3gep3usph_mwu5usja_y8n",
+                "bounds": {
+                  "x": -939,
+                  "y": -170,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_ahzlhyi76_mwu5usja_a7s": {
+                "id": "attr_ahzlhyi76_mwu5usja_a7s",
+                "name": "latitude",
+                "type": "ClassAttribute",
+                "owner": "class_3gep3usph_mwu5usja_y8n",
+                "bounds": {
+                  "x": -939,
+                  "y": -145,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_56rjzln4g_mwu5usja_tsz": {
+                "id": "attr_56rjzln4g_mwu5usja_tsz",
+                "name": "longitude",
+                "type": "ClassAttribute",
+                "owner": "class_3gep3usph_mwu5usja_y8n",
+                "bounds": {
+                  "x": -939,
+                  "y": -120,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_n9yzhgdms_mwu5usja_v6m": {
+                "id": "attr_n9yzhgdms_mwu5usja_v6m",
+                "name": "statusBencana",
+                "type": "ClassAttribute",
+                "owner": "class_3gep3usph_mwu5usja_y8n",
+                "bounds": {
+                  "x": -939,
+                  "y": -95,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_7rn3kk3rx_mwu5usja_3l2": {
+                "id": "method_7rn3kk3rx_mwu5usja_3l2",
+                "name": "ubahStatus(status: str)",
+                "type": "ClassMethod",
+                "owner": "class_3gep3usph_mwu5usja_y8n",
+                "bounds": {
+                  "x": -939,
+                  "y": -60,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_4jbvzgh5z_mwu5usja_jju": {
+                "id": "method_4jbvzgh5z_mwu5usja_jju",
+                "name": "hitungJumlahKorban()",
+                "type": "ClassMethod",
+                "owner": "class_3gep3usph_mwu5usja_y8n",
+                "bounds": {
+                  "x": -939,
+                  "y": -35,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "int",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_7qdx5fnys_mwu5usja_d1n": {
+                "id": "method_7qdx5fnys_mwu5usja_d1n",
+                "name": "hitungTotalKerugian()",
+                "type": "ClassMethod",
+                "owner": "class_3gep3usph_mwu5usja_y8n",
+                "bounds": {
+                  "x": -939,
+                  "y": -10,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "int",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "class_8flepo9s7_mwu5usja_t83": {
+                "id": "class_8flepo9s7_mwu5usja_t83",
+                "name": "DataBencana",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -580,
+                  "y": -320,
+                  "width": 220,
+                  "height": 305
+                },
+                "attributes": [
+                  "attr_93g42kk4i_mwu5usja_nfa",
+                  "attr_fanwu86ko_mwu5usja_t39",
+                  "attr_1abta0w3r_mwu5usja_xtc",
+                  "attr_9hj32bys6_mwu5usja_dik",
+                  "attr_eqrqnjb8w_mwu5usja_sq1",
+                  "attr_g2ue8fioz_mwu5usja_rj6"
+                ],
+                "methods": [
+                  "method_pmaeix9gi_mwu5usja_3k7",
+                  "method_7kn0ycddb_mwu5usja_1au",
+                  "method_pnf2e3m3c_mwu5usja_9k5"
+                ]
+              },
+              "attr_93g42kk4i_mwu5usja_nfa": {
+                "id": "attr_93g42kk4i_mwu5usja_nfa",
+                "name": "idData",
+                "type": "ClassAttribute",
+                "owner": "class_8flepo9s7_mwu5usja_t83",
+                "bounds": {
+                  "x": -579,
+                  "y": -270,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_fanwu86ko_mwu5usja_t39": {
+                "id": "attr_fanwu86ko_mwu5usja_t39",
+                "name": "waktuInput",
+                "type": "ClassAttribute",
+                "owner": "class_8flepo9s7_mwu5usja_t83",
+                "bounds": {
+                  "x": -579,
+                  "y": -245,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_1abta0w3r_mwu5usja_xtc": {
+                "id": "attr_1abta0w3r_mwu5usja_xtc",
+                "name": "statusVerifikasiSistem",
+                "type": "ClassAttribute",
+                "owner": "class_8flepo9s7_mwu5usja_t83",
+                "bounds": {
+                  "x": -579,
+                  "y": -220,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_9hj32bys6_mwu5usja_dik": {
+                "id": "attr_9hj32bys6_mwu5usja_dik",
+                "name": "statusVerifikasiPetugas",
+                "type": "ClassAttribute",
+                "owner": "class_8flepo9s7_mwu5usja_t83",
+                "bounds": {
+                  "x": -579,
+                  "y": -195,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_eqrqnjb8w_mwu5usja_sq1": {
+                "id": "attr_eqrqnjb8w_mwu5usja_sq1",
+                "name": "catatanVerifikasi",
+                "type": "ClassAttribute",
+                "owner": "class_8flepo9s7_mwu5usja_t83",
+                "bounds": {
+                  "x": -579,
+                  "y": -170,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_g2ue8fioz_mwu5usja_rj6": {
+                "id": "attr_g2ue8fioz_mwu5usja_rj6",
+                "name": "waktuVerifikasi",
+                "type": "ClassAttribute",
+                "owner": "class_8flepo9s7_mwu5usja_t83",
+                "bounds": {
+                  "x": -579,
+                  "y": -145,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_pmaeix9gi_mwu5usja_3k7": {
+                "id": "method_pmaeix9gi_mwu5usja_3k7",
+                "name": "validasiTeknis()",
+                "type": "ClassMethod",
+                "owner": "class_8flepo9s7_mwu5usja_t83",
+                "bounds": {
+                  "x": -579,
+                  "y": -110,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_7kn0ycddb_mwu5usja_1au": {
+                "id": "method_7kn0ycddb_mwu5usja_1au",
+                "name": "catatanVerifikasiPetugas(keputusan: str, catatan: str)",
+                "type": "ClassMethod",
+                "owner": "class_8flepo9s7_mwu5usja_t83",
+                "bounds": {
+                  "x": -579,
+                  "y": -85,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_pnf2e3m3c_mwu5usja_9k5": {
+                "id": "method_pnf2e3m3c_mwu5usja_9k5",
+                "name": "bolehDipublikasikan()",
+                "type": "ClassMethod",
+                "owner": "class_8flepo9s7_mwu5usja_t83",
+                "bounds": {
+                  "x": -579,
+                  "y": -60,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "bool",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "class_k7a3yog3v_mwu5usjb_64i": {
+                "id": "class_k7a3yog3v_mwu5usjb_64i",
+                "name": "Posko",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -220,
+                  "y": -320,
+                  "width": 220,
+                  "height": 280
+                },
+                "attributes": [
+                  "attr_8mv8zad7t_mwu5usjb_is2",
+                  "attr_epad1zsi3_mwu5usjb_fxr",
+                  "attr_zv6hyw3o5_mwu5usjb_cyk",
+                  "attr_ko1kuiyon_mwu5usjb_vz3",
+                  "attr_8r862g9ic_mwu5usjb_zjx"
+                ],
+                "methods": [
+                  "method_9lgcdgnh1_mwu5usjb_a6y",
+                  "method_kkb46wmup_mwu5usjb_v0a",
+                  "method_z3gp8dhh2_mwu5usjb_0gu"
+                ]
+              },
+              "attr_8mv8zad7t_mwu5usjb_is2": {
+                "id": "attr_8mv8zad7t_mwu5usjb_is2",
+                "name": "idPosko",
+                "type": "ClassAttribute",
+                "owner": "class_k7a3yog3v_mwu5usjb_64i",
+                "bounds": {
+                  "x": -219,
+                  "y": -270,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_epad1zsi3_mwu5usjb_fxr": {
+                "id": "attr_epad1zsi3_mwu5usjb_fxr",
+                "name": "namaPosko",
+                "type": "ClassAttribute",
+                "owner": "class_k7a3yog3v_mwu5usjb_64i",
+                "bounds": {
+                  "x": -219,
+                  "y": -245,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_zv6hyw3o5_mwu5usjb_cyk": {
+                "id": "attr_zv6hyw3o5_mwu5usjb_cyk",
+                "name": "alamat",
+                "type": "ClassAttribute",
+                "owner": "class_k7a3yog3v_mwu5usjb_64i",
+                "bounds": {
+                  "x": -219,
+                  "y": -220,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_ko1kuiyon_mwu5usjb_vz3": {
+                "id": "attr_ko1kuiyon_mwu5usjb_vz3",
+                "name": "latitude",
+                "type": "ClassAttribute",
+                "owner": "class_k7a3yog3v_mwu5usjb_64i",
+                "bounds": {
+                  "x": -219,
+                  "y": -195,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_8r862g9ic_mwu5usjb_zjx": {
+                "id": "attr_8r862g9ic_mwu5usjb_zjx",
+                "name": "longitude",
+                "type": "ClassAttribute",
+                "owner": "class_k7a3yog3v_mwu5usjb_64i",
+                "bounds": {
+                  "x": -219,
+                  "y": -170,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_9lgcdgnh1_mwu5usjb_a6y": {
+                "id": "method_9lgcdgnh1_mwu5usjb_a6y",
+                "name": "perbaruiLokasi()",
+                "type": "ClassMethod",
+                "owner": "class_k7a3yog3v_mwu5usjb_64i",
+                "bounds": {
+                  "x": -219,
+                  "y": -135,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_kkb46wmup_mwu5usjb_v0a": {
+                "id": "method_kkb46wmup_mwu5usjb_v0a",
+                "name": "hitungJumlahPengungsi()",
+                "type": "ClassMethod",
+                "owner": "class_k7a3yog3v_mwu5usjb_64i",
+                "bounds": {
+                  "x": -219,
+                  "y": -110,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "int",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_z3gp8dhh2_mwu5usjb_0gu": {
+                "id": "method_z3gp8dhh2_mwu5usjb_0gu",
+                "name": "daftarRelawanAktif()",
+                "type": "ClassMethod",
+                "owner": "class_k7a3yog3v_mwu5usjb_64i",
+                "bounds": {
+                  "x": -219,
+                  "y": -85,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "List<Pengguna>",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "class_ztevpoz1o_mwu5usjb_ifm": {
+                "id": "class_ztevpoz1o_mwu5usjb_ifm",
+                "name": "Kerusakan",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -940,
+                  "y": -40,
+                  "width": 220,
+                  "height": 255
+                },
+                "attributes": [
+                  "attr_toukpptfl_mwu5usjb_5ot",
+                  "attr_ljl8ij1wm_mwu5usjb_1yw",
+                  "attr_ilmun54fc_mwu5usjb_c1p",
+                  "attr_5rzmbantq_mwu5usjb_0v2",
+                  "attr_fgap9wkyi_mwu5usjb_60y"
+                ],
+                "methods": [
+                  "method_cvkrkb5cw_mwu5usjb_igy",
+                  "method_hhe2ipjsy_mwu5usjb_lzn"
+                ]
+              },
+              "attr_toukpptfl_mwu5usjb_5ot": {
+                "id": "attr_toukpptfl_mwu5usjb_5ot",
+                "name": "jenisProperti",
+                "type": "ClassAttribute",
+                "owner": "class_ztevpoz1o_mwu5usjb_ifm",
+                "bounds": {
+                  "x": -939,
+                  "y": 10,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_ljl8ij1wm_mwu5usjb_1yw": {
+                "id": "attr_ljl8ij1wm_mwu5usjb_1yw",
+                "name": "latitude",
+                "type": "ClassAttribute",
+                "owner": "class_ztevpoz1o_mwu5usjb_ifm",
+                "bounds": {
+                  "x": -939,
+                  "y": 35,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_ilmun54fc_mwu5usjb_c1p": {
+                "id": "attr_ilmun54fc_mwu5usjb_c1p",
+                "name": "longitude",
+                "type": "ClassAttribute",
+                "owner": "class_ztevpoz1o_mwu5usjb_ifm",
+                "bounds": {
+                  "x": -939,
+                  "y": 60,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_5rzmbantq_mwu5usjb_0v2": {
+                "id": "attr_5rzmbantq_mwu5usjb_0v2",
+                "name": "perkiraanKerugian",
+                "type": "ClassAttribute",
+                "owner": "class_ztevpoz1o_mwu5usjb_ifm",
+                "bounds": {
+                  "x": -939,
+                  "y": 85,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "int",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_fgap9wkyi_mwu5usjb_60y": {
+                "id": "attr_fgap9wkyi_mwu5usjb_60y",
+                "name": "namaPemilik",
+                "type": "ClassAttribute",
+                "owner": "class_ztevpoz1o_mwu5usjb_ifm",
+                "bounds": {
+                  "x": -939,
+                  "y": 110,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_cvkrkb5cw_mwu5usjb_igy": {
+                "id": "method_cvkrkb5cw_mwu5usjb_igy",
+                "name": "perbaruiDataProperti()",
+                "type": "ClassMethod",
+                "owner": "class_ztevpoz1o_mwu5usjb_ifm",
+                "bounds": {
+                  "x": -939,
+                  "y": 145,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_hhe2ipjsy_mwu5usjb_lzn": {
+                "id": "method_hhe2ipjsy_mwu5usjb_lzn",
+                "name": "ubahPerkiraanKerugian(nominal: int)",
+                "type": "ClassMethod",
+                "owner": "class_ztevpoz1o_mwu5usjb_ifm",
+                "bounds": {
+                  "x": -939,
+                  "y": 170,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "class_pfgqypwe2_mwu5usjb_1vd": {
+                "id": "class_pfgqypwe2_mwu5usjb_1vd",
+                "name": "Korban",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -580,
+                  "y": -40,
+                  "width": 220,
+                  "height": 230
+                },
+                "attributes": [
+                  "attr_g0pqhhhrh_mwu5usjb_erj",
+                  "attr_ikavt4tqn_mwu5usjb_bs9",
+                  "attr_i8xmwa9cg_mwu5usjb_way",
+                  "attr_7uthacnw1_mwu5usjb_ecr"
+                ],
+                "methods": [
+                  "method_spa2lvva5_mwu5usjb_lae",
+                  "method_hq8auoxpf_mwu5usjb_3r8"
+                ]
+              },
+              "attr_g0pqhhhrh_mwu5usjb_erj": {
+                "id": "attr_g0pqhhhrh_mwu5usjb_erj",
+                "name": "nama",
+                "type": "ClassAttribute",
+                "owner": "class_pfgqypwe2_mwu5usjb_1vd",
+                "bounds": {
+                  "x": -579,
+                  "y": 10,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_ikavt4tqn_mwu5usjb_bs9": {
+                "id": "attr_ikavt4tqn_mwu5usjb_bs9",
+                "name": "alamat",
+                "type": "ClassAttribute",
+                "owner": "class_pfgqypwe2_mwu5usjb_1vd",
+                "bounds": {
+                  "x": -579,
+                  "y": 35,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_i8xmwa9cg_mwu5usjb_way": {
+                "id": "attr_i8xmwa9cg_mwu5usjb_way",
+                "name": "jenisKelamin",
+                "type": "ClassAttribute",
+                "owner": "class_pfgqypwe2_mwu5usjb_1vd",
+                "bounds": {
+                  "x": -579,
+                  "y": 60,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_7uthacnw1_mwu5usjb_ecr": {
+                "id": "attr_7uthacnw1_mwu5usjb_ecr",
+                "name": "klasifikasiKorban",
+                "type": "ClassAttribute",
+                "owner": "class_pfgqypwe2_mwu5usjb_1vd",
+                "bounds": {
+                  "x": -579,
+                  "y": 85,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_spa2lvva5_mwu5usjb_lae": {
+                "id": "method_spa2lvva5_mwu5usjb_lae",
+                "name": "perbaruiIdentitas()",
+                "type": "ClassMethod",
+                "owner": "class_pfgqypwe2_mwu5usjb_1vd",
+                "bounds": {
+                  "x": -579,
+                  "y": 120,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_hq8auoxpf_mwu5usjb_3r8": {
+                "id": "method_hq8auoxpf_mwu5usjb_3r8",
+                "name": "ubahKlasifikasi(klasifikasi: str)",
+                "type": "ClassMethod",
+                "owner": "class_pfgqypwe2_mwu5usjb_1vd",
+                "bounds": {
+                  "x": -579,
+                  "y": 145,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "class_rdkxkd7og_mwu5usjb_5y8": {
+                "id": "class_rdkxkd7og_mwu5usjb_5y8",
+                "name": "Pekerjaan",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -220,
+                  "y": -40,
+                  "width": 220,
+                  "height": 305
+                },
+                "attributes": [
+                  "attr_364laeuih_mwu5usjb_873",
+                  "attr_akm8cd78k_mwu5usjb_ob5",
+                  "attr_yx9osb42h_mwu5usjb_7kh",
+                  "attr_8kh9pnf18_mwu5usjb_hxl",
+                  "attr_9p9kjx5ap_mwu5usjb_n4u",
+                  "attr_qah63qdq1_mwu5usjb_5zj"
+                ],
+                "methods": [
+                  "method_0aiupby3w_mwu5usjb_0ep",
+                  "method_ezceob2wi_mwu5usjb_g23",
+                  "method_j1l1v5ppx_mwu5usjb_rm4"
+                ]
+              },
+              "attr_364laeuih_mwu5usjb_873": {
+                "id": "attr_364laeuih_mwu5usjb_873",
+                "name": "idPekerjaan",
+                "type": "ClassAttribute",
+                "owner": "class_rdkxkd7og_mwu5usjb_5y8",
+                "bounds": {
+                  "x": -219,
+                  "y": 10,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_akm8cd78k_mwu5usjb_ob5": {
+                "id": "attr_akm8cd78k_mwu5usjb_ob5",
+                "name": "judul",
+                "type": "ClassAttribute",
+                "owner": "class_rdkxkd7og_mwu5usjb_5y8",
+                "bounds": {
+                  "x": -219,
+                  "y": 35,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_yx9osb42h_mwu5usjb_7kh": {
+                "id": "attr_yx9osb42h_mwu5usjb_7kh",
+                "name": "deskripsi",
+                "type": "ClassAttribute",
+                "owner": "class_rdkxkd7og_mwu5usjb_5y8",
+                "bounds": {
+                  "x": -219,
+                  "y": 60,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_8kh9pnf18_mwu5usjb_hxl": {
+                "id": "attr_8kh9pnf18_mwu5usjb_hxl",
+                "name": "tanggalDibuat",
+                "type": "ClassAttribute",
+                "owner": "class_rdkxkd7og_mwu5usjb_5y8",
+                "bounds": {
+                  "x": -219,
+                  "y": 85,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_9p9kjx5ap_mwu5usjb_n4u": {
+                "id": "attr_9p9kjx5ap_mwu5usjb_n4u",
+                "name": "statusPekerjaan",
+                "type": "ClassAttribute",
+                "owner": "class_rdkxkd7og_mwu5usjb_5y8",
+                "bounds": {
+                  "x": -219,
+                  "y": 110,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_qah63qdq1_mwu5usjb_5zj": {
+                "id": "attr_qah63qdq1_mwu5usjb_5zj",
+                "name": "waktuSelesai",
+                "type": "ClassAttribute",
+                "owner": "class_rdkxkd7og_mwu5usjb_5y8",
+                "bounds": {
+                  "x": -219,
+                  "y": 135,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_0aiupby3w_mwu5usjb_0ep": {
+                "id": "method_0aiupby3w_mwu5usjb_0ep",
+                "name": "ubahDeskripsi(deskripsi: str)",
+                "type": "ClassMethod",
+                "owner": "class_rdkxkd7og_mwu5usjb_5y8",
+                "bounds": {
+                  "x": -219,
+                  "y": 170,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_ezceob2wi_mwu5usjb_g23": {
+                "id": "method_ezceob2wi_mwu5usjb_g23",
+                "name": "tandaiSelesai()",
+                "type": "ClassMethod",
+                "owner": "class_rdkxkd7og_mwu5usjb_5y8",
+                "bounds": {
+                  "x": -219,
+                  "y": 195,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_j1l1v5ppx_mwu5usjb_rm4": {
+                "id": "method_j1l1v5ppx_mwu5usjb_rm4",
+                "name": "tandaiBelumSelesai()",
+                "type": "ClassMethod",
+                "owner": "class_rdkxkd7og_mwu5usjb_5y8",
+                "bounds": {
+                  "x": -219,
+                  "y": 220,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "class_2q0nj1a4k_mwu5usjb_sur": {
+                "id": "class_2q0nj1a4k_mwu5usjb_sur",
+                "name": "PenugasanRelawan",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -940,
+                  "y": 240,
+                  "width": 220,
+                  "height": 305
+                },
+                "attributes": [
+                  "attr_079g8dkw4_mwu5usjb_iob",
+                  "attr_eh0zokfa0_mwu5usjb_b80",
+                  "attr_i7bo1lt59_mwu5usjb_d8b",
+                  "attr_on27n44t0_mwu5usjb_g94",
+                  "attr_rhxwvempi_mwu5usjb_m40",
+                  "attr_41fx82glm_mwu5usjb_rlm"
+                ],
+                "methods": [
+                  "method_9aidejujy_mwu5usjb_3m7",
+                  "method_vi9vwyw1e_mwu5usjb_gdt",
+                  "method_5hlfy7qyu_mwu5usjb_r4h"
+                ]
+              },
+              "attr_079g8dkw4_mwu5usjb_iob": {
+                "id": "attr_079g8dkw4_mwu5usjb_iob",
+                "name": "idPenugasan",
+                "type": "ClassAttribute",
+                "owner": "class_2q0nj1a4k_mwu5usjb_sur",
+                "bounds": {
+                  "x": -939,
+                  "y": 290,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_eh0zokfa0_mwu5usjb_b80": {
+                "id": "attr_eh0zokfa0_mwu5usjb_b80",
+                "name": "tugasUmum",
+                "type": "ClassAttribute",
+                "owner": "class_2q0nj1a4k_mwu5usjb_sur",
+                "bounds": {
+                  "x": -939,
+                  "y": 315,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_i7bo1lt59_mwu5usjb_d8b": {
+                "id": "attr_i7bo1lt59_mwu5usjb_d8b",
+                "name": "tanggalMulai",
+                "type": "ClassAttribute",
+                "owner": "class_2q0nj1a4k_mwu5usjb_sur",
+                "bounds": {
+                  "x": -939,
+                  "y": 340,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_on27n44t0_mwu5usjb_g94": {
+                "id": "attr_on27n44t0_mwu5usjb_g94",
+                "name": "tanggalSelesai",
+                "type": "ClassAttribute",
+                "owner": "class_2q0nj1a4k_mwu5usjb_sur",
+                "bounds": {
+                  "x": -939,
+                  "y": 365,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_rhxwvempi_mwu5usjb_m40": {
+                "id": "attr_rhxwvempi_mwu5usjb_m40",
+                "name": "statusPenyelesaian",
+                "type": "ClassAttribute",
+                "owner": "class_2q0nj1a4k_mwu5usjb_sur",
+                "bounds": {
+                  "x": -939,
+                  "y": 390,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_41fx82glm_mwu5usjb_rlm": {
+                "id": "attr_41fx82glm_mwu5usjb_rlm",
+                "name": "statusPenguasaan",
+                "type": "ClassAttribute",
+                "owner": "class_2q0nj1a4k_mwu5usjb_sur",
+                "bounds": {
+                  "x": -939,
+                  "y": 415,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_9aidejujy_mwu5usjb_3m7": {
+                "id": "method_9aidejujy_mwu5usjb_3m7",
+                "name": "ubahTugasUmum(tugas: str)",
+                "type": "ClassMethod",
+                "owner": "class_2q0nj1a4k_mwu5usjb_sur",
+                "bounds": {
+                  "x": -939,
+                  "y": 450,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_vi9vwyw1e_mwu5usjb_gdt": {
+                "id": "method_vi9vwyw1e_mwu5usjb_gdt",
+                "name": "mulaiPenugasan()",
+                "type": "ClassMethod",
+                "owner": "class_2q0nj1a4k_mwu5usjb_sur",
+                "bounds": {
+                  "x": -939,
+                  "y": 475,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_5hlfy7qyu_mwu5usjb_r4h": {
+                "id": "method_5hlfy7qyu_mwu5usjb_r4h",
+                "name": "selesaikanPenugasan()",
+                "type": "ClassMethod",
+                "owner": "class_2q0nj1a4k_mwu5usjb_sur",
+                "bounds": {
+                  "x": -939,
+                  "y": 500,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "class_i7ngzjr5m_mwu5usjb_pwk": {
+                "id": "class_i7ngzjr5m_mwu5usjb_pwk",
+                "name": "DistribusiBantuan",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -580,
+                  "y": 240,
+                  "width": 220,
+                  "height": 205
+                },
+                "attributes": [
+                  "attr_rijg03tx2_mwu5usjb_ilj",
+                  "attr_8o0pmlp0q_mwu5usjb_uub",
+                  "attr_y5nx1bxte_mwu5usjb_awv",
+                  "attr_djlsc8iy9_mwu5usjb_b5a"
+                ],
+                "methods": [
+                  "method_u6vibp4i6_mwu5usjb_jj6"
+                ]
+              },
+              "attr_rijg03tx2_mwu5usjb_ilj": {
+                "id": "attr_rijg03tx2_mwu5usjb_ilj",
+                "name": "idDistribusi",
+                "type": "ClassAttribute",
+                "owner": "class_i7ngzjr5m_mwu5usjb_pwk",
+                "bounds": {
+                  "x": -579,
+                  "y": 290,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_8o0pmlp0q_mwu5usjb_uub": {
+                "id": "attr_8o0pmlp0q_mwu5usjb_uub",
+                "name": "statusDistribusi",
+                "type": "ClassAttribute",
+                "owner": "class_i7ngzjr5m_mwu5usjb_pwk",
+                "bounds": {
+                  "x": -579,
+                  "y": 315,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_y5nx1bxte_mwu5usjb_awv": {
+                "id": "attr_y5nx1bxte_mwu5usjb_awv",
+                "name": "tanggalDistribusi",
+                "type": "ClassAttribute",
+                "owner": "class_i7ngzjr5m_mwu5usjb_pwk",
+                "bounds": {
+                  "x": -579,
+                  "y": 340,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_djlsc8iy9_mwu5usjb_b5a": {
+                "id": "attr_djlsc8iy9_mwu5usjb_b5a",
+                "name": "situasiDistribusi",
+                "type": "ClassAttribute",
+                "owner": "class_i7ngzjr5m_mwu5usjb_pwk",
+                "bounds": {
+                  "x": -579,
+                  "y": 365,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_u6vibp4i6_mwu5usjb_jj6": {
+                "id": "method_u6vibp4i6_mwu5usjb_jj6",
+                "name": "method()",
+                "type": "ClassMethod",
+                "owner": "class_i7ngzjr5m_mwu5usjb_pwk",
+                "bounds": {
+                  "x": -579,
+                  "y": 400,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "class_onq76q4lo_mwu5usjb_c7r": {
+                "id": "class_onq76q4lo_mwu5usjb_c7r",
+                "name": "Bantuan",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -220,
+                  "y": 240,
+                  "width": 220,
+                  "height": 205
+                },
+                "attributes": [
+                  "attr_m2skxno3r_mwu5usjb_8lz",
+                  "attr_b822zylzm_mwu5usjb_woa",
+                  "attr_gkw1fthba_mwu5usjb_yop",
+                  "attr_8qmlau01s_mwu5usjb_gah"
+                ],
+                "methods": [
+                  "method_7gshph05b_mwu5usjb_6ai"
+                ]
+              },
+              "attr_m2skxno3r_mwu5usjb_8lz": {
+                "id": "attr_m2skxno3r_mwu5usjb_8lz",
+                "name": "idBantuan",
+                "type": "ClassAttribute",
+                "owner": "class_onq76q4lo_mwu5usjb_c7r",
+                "bounds": {
+                  "x": -219,
+                  "y": 290,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_b822zylzm_mwu5usjb_woa": {
+                "id": "attr_b822zylzm_mwu5usjb_woa",
+                "name": "namaBantuan",
+                "type": "ClassAttribute",
+                "owner": "class_onq76q4lo_mwu5usjb_c7r",
+                "bounds": {
+                  "x": -219,
+                  "y": 315,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_gkw1fthba_mwu5usjb_yop": {
+                "id": "attr_gkw1fthba_mwu5usjb_yop",
+                "name": "kategori",
+                "type": "ClassAttribute",
+                "owner": "class_onq76q4lo_mwu5usjb_c7r",
+                "bounds": {
+                  "x": -219,
+                  "y": 340,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_8qmlau01s_mwu5usjb_gah": {
+                "id": "attr_8qmlau01s_mwu5usjb_gah",
+                "name": "satuan",
+                "type": "ClassAttribute",
+                "owner": "class_onq76q4lo_mwu5usjb_c7r",
+                "bounds": {
+                  "x": -219,
+                  "y": 365,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_7gshph05b_mwu5usjb_6ai": {
+                "id": "method_7gshph05b_mwu5usjb_6ai",
+                "name": "perbaruiInformasi(nama: str, kategori: str)",
+                "type": "ClassMethod",
+                "owner": "class_onq76q4lo_mwu5usjb_c7r",
+                "bounds": {
+                  "x": -219,
+                  "y": 400,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "class_05et6q8k7_mwu5usjc_jie": {
+                "id": "class_05et6q8k7_mwu5usjc_jie",
+                "name": "KebutuhanBantuan",
+                "type": "Class",
+                "owner": null,
+                "bounds": {
+                  "x": -940,
+                  "y": 520,
+                  "width": 220,
+                  "height": 230
+                },
+                "attributes": [
+                  "attr_65ecrwwqg_mwu5usjc_1sb",
+                  "attr_4qjpe5snj_mwu5usjc_kzr",
+                  "attr_xnmpqwdfj_mwu5usjc_10u",
+                  "attr_qdjkrnv41_mwu5usjc_o0f"
+                ],
+                "methods": [
+                  "method_0950zqxhq_mwu5usjc_4w6",
+                  "method_qiyr5untx_mwu5usjc_ye3"
+                ]
+              },
+              "attr_65ecrwwqg_mwu5usjc_1sb": {
+                "id": "attr_65ecrwwqg_mwu5usjc_1sb",
+                "name": "idKebutuhan",
+                "type": "ClassAttribute",
+                "owner": "class_05et6q8k7_mwu5usjc_jie",
+                "bounds": {
+                  "x": -939,
+                  "y": 570,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "str",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_4qjpe5snj_mwu5usjc_kzr": {
+                "id": "attr_4qjpe5snj_mwu5usjc_kzr",
+                "name": "jumlahKebutuhan",
+                "type": "ClassAttribute",
+                "owner": "class_05et6q8k7_mwu5usjc_jie",
+                "bounds": {
+                  "x": -939,
+                  "y": 595,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "int",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_xnmpqwdfj_mwu5usjc_10u": {
+                "id": "attr_xnmpqwdfj_mwu5usjc_10u",
+                "name": "jumlahTerealisasi",
+                "type": "ClassAttribute",
+                "owner": "class_05et6q8k7_mwu5usjc_jie",
+                "bounds": {
+                  "x": -939,
+                  "y": 620,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "int",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "attr_qdjkrnv41_mwu5usjc_o0f": {
+                "id": "attr_qdjkrnv41_mwu5usjc_o0f",
+                "name": "jumlahKekurangan",
+                "type": "ClassAttribute",
+                "owner": "class_05et6q8k7_mwu5usjc_jie",
+                "bounds": {
+                  "x": -939,
+                  "y": 645,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "private",
+                "attributeType": "int",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_0950zqxhq_mwu5usjc_4w6": {
+                "id": "method_0950zqxhq_mwu5usjc_4w6",
+                "name": "ubahJumlahDibutuhkan(jumlah: int)",
+                "type": "ClassMethod",
+                "owner": "class_05et6q8k7_mwu5usjc_jie",
+                "bounds": {
+                  "x": -939,
+                  "y": 680,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "any",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              },
+              "method_qiyr5untx_mwu5usjc_ye3": {
+                "id": "method_qiyr5untx_mwu5usjc_ye3",
+                "name": "hitungKerugian()",
+                "type": "ClassMethod",
+                "owner": "class_05et6q8k7_mwu5usjc_jie",
+                "bounds": {
+                  "x": -939,
+                  "y": 705,
+                  "width": 218,
+                  "height": 25
+                },
+                "code": "",
+                "visibility": "public",
+                "attributeType": "int",
+                "implementationType": "none",
+                "stateMachineId": "",
+                "quantumCircuitId": "",
+                "neuralNetworkId": "",
+                "isOptional": false,
+                "isDerived": false,
+                "isId": false,
+                "isExternalId": false
+              }
+            },
+            "relationships": {
+              "rel_s445hsvoa_mwu5usjc_tal": {
+                "id": "rel_s445hsvoa_mwu5usjc_tal",
+                "name": "Memuat",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": -980,
+                  "y": -540,
+                  "width": 1046.0182304382324,
+                  "height": 210
+                },
+                "path": [
+                  {
+                    "x": 40,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 210
+                  },
+                  {
+                    "x": 1020,
+                    "y": 210
+                  },
+                  {
+                    "x": 1020,
+                    "y": 55
+                  },
+                  {
+                    "x": 980,
+                    "y": 55
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_i7bl11lzj_mwu5usj8_eo8",
+                  "multiplicity": "0..*",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_fgoilmjt3_mwu5usj9_a6h",
+                  "multiplicity": "1",
+                  "role": "Memuat",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_8ynhzsb3s_mwu5usjc_6xq": {
+                "id": "rel_8ynhzsb3s_mwu5usjc_6xq",
+                "name": "Berpartisipasi",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": -620,
+                  "y": -640,
+                  "width": 724.9375,
+                  "height": 224
+                },
+                "path": [
+                  {
+                    "x": 40,
+                    "y": 185
+                  },
+                  {
+                    "x": 0,
+                    "y": 185
+                  },
+                  {
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "x": 660,
+                    "y": 0
+                  },
+                  {
+                    "x": 660,
+                    "y": 155
+                  },
+                  {
+                    "x": 620,
+                    "y": 155
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_71osc72gz_mwu5usj9_7r7",
+                  "multiplicity": "2..*",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_fgoilmjt3_mwu5usj9_a6h",
+                  "multiplicity": "1",
+                  "role": "Berpartisipasi",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_rdbllma1u_mwu5usjc_9sj": {
+                "id": "rel_rdbllma1u_mwu5usjc_9sj",
+                "name": "Menulis",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": -720,
+                  "y": -540,
+                  "width": 140,
+                  "height": 49
+                },
+                "path": [
+                  {
+                    "x": 140,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_71osc72gz_mwu5usj9_7r7",
+                  "multiplicity": "1",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_i7bl11lzj_mwu5usj8_eo8",
+                  "multiplicity": "0..*",
+                  "role": "Menulis",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_5kmv1j6ci_mwu5usjc_84n": {
+                "id": "rel_5kmv1j6ci_mwu5usjc_84n",
+                "name": "Memverifikasi",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": -620,
+                  "y": -465,
+                  "width": 365.7916717529297,
+                  "height": 336.5
+                },
+                "path": [
+                  {
+                    "x": 40,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 195
+                  },
+                  {
+                    "x": 300,
+                    "y": 195
+                  },
+                  {
+                    "x": 300,
+                    "y": 297.5
+                  },
+                  {
+                    "x": 260,
+                    "y": 297.5
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_71osc72gz_mwu5usj9_7r7",
+                  "multiplicity": "0..*",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_8flepo9s7_mwu5usja_t83",
+                  "multiplicity": "0..*",
+                  "role": "Memverifikasi",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_5wjshjwsa_mwu5usjc_f3t": {
+                "id": "rel_5wjshjwsa_mwu5usjc_f3t",
+                "name": "Memasukkan",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": -620,
+                  "y": -465,
+                  "width": 723.15625,
+                  "height": 616.5
+                },
+                "path": [
+                  {
+                    "x": 40,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 195
+                  },
+                  {
+                    "x": 660,
+                    "y": 195
+                  },
+                  {
+                    "x": 660,
+                    "y": 577.5
+                  },
+                  {
+                    "x": 620,
+                    "y": 577.5
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_71osc72gz_mwu5usj9_7r7",
+                  "multiplicity": "1",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_rdkxkd7og_mwu5usjb_5y8",
+                  "multiplicity": "0..*",
+                  "role": "Memasukkan",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_8h9s5rc98_mwu5usjc_ntj": {
+                "id": "rel_8h9s5rc98_mwu5usjc_ntj",
+                "name": "DijabarkanMenjadi",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                },
+                "path": [
+                  {
+                    "x": 100,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_rdkxkd7og_mwu5usjb_5y8",
+                  "multiplicity": null,
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_2q0nj1a4k_mwu5usjb_sur",
+                  "multiplicity": null,
+                  "role": null,
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_dueuoneig_mwu5usjc_om7": {
+                "id": "rel_dueuoneig_mwu5usjc_om7",
+                "name": "Menjadi lokasi penugasan",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": -980,
+                  "y": -465,
+                  "width": 813.0208435058594,
+                  "height": 896.5
+                },
+                "path": [
+                  {
+                    "x": 40,
+                    "y": 857.5
+                  },
+                  {
+                    "x": 0,
+                    "y": 857.5
+                  },
+                  {
+                    "x": 0,
+                    "y": 665
+                  },
+                  {
+                    "x": 660,
+                    "y": 665
+                  },
+                  {
+                    "x": 660,
+                    "y": 10
+                  },
+                  {
+                    "x": 620,
+                    "y": 10
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_2q0nj1a4k_mwu5usjb_sur",
+                  "multiplicity": "0..*",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_71osc72gz_mwu5usj9_7r7",
+                  "multiplicity": "1",
+                  "role": "Menjadi lokasi penugasan",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_i17djselk_mwu5usjc_4tc": {
+                "id": "rel_i17djselk_mwu5usjc_4tc",
+                "name": "Memiliki data",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                },
+                "path": [
+                  {
+                    "x": 100,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_3gep3usph_mwu5usja_y8n",
+                  "multiplicity": "0..*",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_8flepo9s7_mwu5usja_t83",
+                  "multiplicity": "1",
+                  "role": "Memiliki data",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_kzh9tty1p_mwu5usjd_p6q": {
+                "id": "rel_kzh9tty1p_mwu5usjd_p6q",
+                "name": "Memiliki Posko",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                },
+                "path": [
+                  {
+                    "x": 100,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_3gep3usph_mwu5usja_y8n",
+                  "multiplicity": "0..*",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_k7a3yog3v_mwu5usjb_64i",
+                  "multiplicity": "1",
+                  "role": "Memiliki Posko",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_myq4xfl5m_mwu5usjd_w78": {
+                "id": "rel_myq4xfl5m_mwu5usjd_w78",
+                "name": "Menerima distribusi",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                },
+                "path": [
+                  {
+                    "x": 100,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_3gep3usph_mwu5usja_y8n",
+                  "multiplicity": "0..*",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_i7ngzjr5m_mwu5usjb_pwk",
+                  "multiplicity": "1",
+                  "role": "Menerima distribusi",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_o4nmjdsjr_mwu5usjd_esv": {
+                "id": "rel_o4nmjdsjr_mwu5usjd_esv",
+                "name": "Disalurkan melalui",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                },
+                "path": [
+                  {
+                    "x": 100,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_i7ngzjr5m_mwu5usjb_pwk",
+                  "multiplicity": "0..*",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_onq76q4lo_mwu5usjb_c7r",
+                  "multiplicity": "1",
+                  "role": "Disalurkan melalui",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_qqjtfokls_mwu5usjd_go2": {
+                "id": "rel_qqjtfokls_mwu5usjd_go2",
+                "name": "dibutuhkan dalam",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                },
+                "path": [
+                  {
+                    "x": 100,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_onq76q4lo_mwu5usjb_c7r",
+                  "multiplicity": "0..*",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_05et6q8k7_mwu5usjc_jie",
+                  "multiplicity": "1",
+                  "role": "dibutuhkan dalam",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_iv3c3egvg_mwu5usjd_l4s": {
+                "id": "rel_iv3c3egvg_mwu5usjd_l4s",
+                "name": "Menerima sebagai relawan",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                },
+                "path": [
+                  {
+                    "x": 100,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_3gep3usph_mwu5usja_y8n",
+                  "multiplicity": "0..*",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_ztevpoz1o_mwu5usjb_ifm",
+                  "multiplicity": "1",
+                  "role": "Menerima sebagai relawan",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_q78hm6zsa_mwu5usjd_obo": {
+                "id": "rel_q78hm6zsa_mwu5usjd_obo",
+                "name": "Menampung",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                },
+                "path": [
+                  {
+                    "x": 100,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_3gep3usph_mwu5usja_y8n",
+                  "multiplicity": "0..*",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_pfgqypwe2_mwu5usjb_1vd",
+                  "multiplicity": "1",
+                  "role": "Menampung",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              },
+              "rel_9g5avwaw4_mwu5usjd_dwx": {
+                "id": "rel_9g5avwaw4_mwu5usjd_dwx",
+                "name": "Memiliki Kebutuhan",
+                "type": "ClassBidirectional",
+                "owner": null,
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 0,
+                  "height": 0
+                },
+                "path": [
+                  {
+                    "x": 100,
+                    "y": 10
+                  },
+                  {
+                    "x": 0,
+                    "y": 10
+                  }
+                ],
+                "source": {
+                  "direction": "Left",
+                  "element": "class_3gep3usph_mwu5usja_y8n",
+                  "multiplicity": "0..*",
+                  "role": "",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "target": {
+                  "direction": "Right",
+                  "element": "class_05et6q8k7_mwu5usjc_jie",
+                  "multiplicity": "1",
+                  "role": "Memiliki Kebutuhan",
+                  "navigable": true,
+                  "bounds": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 0,
+                    "height": 0
+                  }
+                },
+                "isManuallyLayouted": false
+              }
+            },
+            "assessments": {}
+          },
+          "lastUpdate": "2026-11-24T03:54:39.272Z"
+        }
+      ]
+    },
     "settings": {
       "defaultDiagramType": "ClassDiagram",
       "autoSave": true,
@@ -42,9 +3370,520 @@
         "KnowledgeGraphDiagram": true
       },
       "preferredInterface": "model"
+    },
+    "assistantConversation": {
+      "turns": [
+        {
+          "role": "user",
+          "content": "Ubah gambar ini menjadi UML Class Diagram yang bisa diedit di kanvas BESSER. Salin semua 13 kelas SIMBA beserta nama atribut, operasi, relasi, dan multiplicity di kedua ujung. Pertahankan relasi berbeda meskipun menghubungkan pasangan kelas yang sama. Gunakan generalization dari Korban dan Kerusakan ke DataBencana. Catat tipe data yang kamu asumsikan dan label yang kurang terbaca supaya saya bisa mengeceknya. \ud83d\udcce image.png"
+        },
+        {
+          "role": "assistant",
+          "content": "File gambar 'image.png' telah dikonversi menjadi Diagram Kelas UML dengan 13 kelas, 64 atribut, dan 15 relasi."
+        },
+        {
+          "role": "assistant",
+          "content": "Relasi di **Pekerjaan \u2192 PenugasanRelawan** telah diperbarui."
+        }
+      ],
+      "updatedAt": "2026-11-24T03:54:33.253Z"
+    },
+    "attribution": {
+      "attr_079g8dkw4_mwu5usjb_iob": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_1abta0w3r_mwu5usja_xtc": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_364laeuih_mwu5usjb_873": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_41fx82glm_mwu5usjb_rlm": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_4qjpe5snj_mwu5usjc_kzr": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_56rjzln4g_mwu5usja_tsz": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_5fqo61ri4_mwu5usj9_bhc": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_5rzmbantq_mwu5usjb_0v2": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_65ecrwwqg_mwu5usjc_1sb": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_6p2ujpikl_mwu5usja_uxr": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_77d18ng8i_mwu5usja_1wj": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_7uthacnw1_mwu5usjb_ecr": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_8kh9pnf18_mwu5usjb_hxl": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_8mv8zad7t_mwu5usjb_is2": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_8o0pmlp0q_mwu5usjb_uub": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_8qmlau01s_mwu5usjb_gah": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_8r862g9ic_mwu5usjb_zjx": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_93g42kk4i_mwu5usja_nfa": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_9hj32bys6_mwu5usja_dik": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_9p9kjx5ap_mwu5usjb_n4u": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_ahzlhyi76_mwu5usja_a7s": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_akm8cd78k_mwu5usjb_ob5": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_b822zylzm_mwu5usjb_woa": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_d9hsmo88y_mwu5usj9_3x7": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_djlsc8iy9_mwu5usjb_b5a": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_eh0zokfa0_mwu5usjb_b80": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_enyeaj06c_mwu5usja_tyj": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_epad1zsi3_mwu5usjb_fxr": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_eqrqnjb8w_mwu5usja_sq1": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_fanwu86ko_mwu5usja_t39": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_fgap9wkyi_mwu5usjb_60y": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_fsd02i88x_mwu5usj9_jro": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_fygzwc9do_mwu5usj9_ds7": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_g0pqhhhrh_mwu5usjb_erj": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_g2ue8fioz_mwu5usja_rj6": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_gkw1fthba_mwu5usjb_yop": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_i7bo1lt59_mwu5usjb_d8b": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_i8xmwa9cg_mwu5usjb_way": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_ikavt4tqn_mwu5usjb_bs9": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_ilmun54fc_mwu5usjb_c1p": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_ioyo1gdtk_mwu5usj8_u54": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_jf8ritjx4_mwu5usj9_26l": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_jvlq9cfme_mwu5usj9_jm2": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_ko1kuiyon_mwu5usjb_vz3": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_ljl8ij1wm_mwu5usjb_1yw": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_lwwu40el7_mwu5usj8_bme": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_m2skxno3r_mwu5usjb_8lz": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_n9yzhgdms_mwu5usja_v6m": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_nalcz90mr_mwu5usja_k4j": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_obf72fzg2_mwu5usj9_0bm": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_on27n44t0_mwu5usjb_g94": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_pm7z7u6fq_mwu5usj9_za3": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_qah63qdq1_mwu5usjb_5zj": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_qdjkrnv41_mwu5usjc_o0f": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_qripl63pi_mwu5usj9_f71": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_rhxwvempi_mwu5usjb_m40": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_rijg03tx2_mwu5usjb_ilj": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_toukpptfl_mwu5usjb_5ot": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_vcbkwnv49_mwu5usja_9f8": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_w8nc7vvia_mwu5usj8_m77": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_xnmpqwdfj_mwu5usjc_10u": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_y5nx1bxte_mwu5usjb_awv": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_yx9osb42h_mwu5usjb_7kh": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "attr_zv6hyw3o5_mwu5usjb_cyk": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_05et6q8k7_mwu5usjc_jie": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_2q0nj1a4k_mwu5usjb_sur": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_3gep3usph_mwu5usja_y8n": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_71osc72gz_mwu5usj9_7r7": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_8flepo9s7_mwu5usja_t83": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_fgoilmjt3_mwu5usj9_a6h": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_i7bl11lzj_mwu5usj8_eo8": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_i7ngzjr5m_mwu5usjb_pwk": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_k7a3yog3v_mwu5usjb_64i": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_onq76q4lo_mwu5usjb_c7r": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_pfgqypwe2_mwu5usjb_1vd": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_rdkxkd7og_mwu5usjb_5y8": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "class_ztevpoz1o_mwu5usjb_ifm": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_0950zqxhq_mwu5usjc_4w6": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_0aiupby3w_mwu5usjb_0ep": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_23drs7gzu_mwu5usj9_kjj": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_4jbvzgh5z_mwu5usja_jju": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_5hlfy7qyu_mwu5usjb_r4h": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_7gshph05b_mwu5usjb_6ai": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_7kn0ycddb_mwu5usja_1au": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_7qdx5fnys_mwu5usja_d1n": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_7rn3kk3rx_mwu5usja_3l2": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_9aidejujy_mwu5usjb_3m7": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_9lgcdgnh1_mwu5usjb_a6y": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_cvkrkb5cw_mwu5usjb_igy": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_e0g2u4oqh_mwu5usj9_yx7": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_ezceob2wi_mwu5usjb_g23": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_f93nj7egm_mwu5usj9_yso": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_gwjxjy18l_mwu5usj9_u82": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_hhe2ipjsy_mwu5usjb_lzn": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_hq8auoxpf_mwu5usjb_3r8": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_i8qo6fudj_mwu5usja_14u": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_ijs3e466p_mwu5usja_zuz": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_j1l1v5ppx_mwu5usjb_rm4": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_kkb46wmup_mwu5usjb_v0a": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_pmaeix9gi_mwu5usja_3k7": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_pnf2e3m3c_mwu5usja_9k5": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_qiyr5untx_mwu5usjc_ye3": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_spa2lvva5_mwu5usjb_lae": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_t3mlq35me_mwu5usj9_ech": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_u6vibp4i6_mwu5usjb_jj6": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_vi9vwyw1e_mwu5usjb_gdt": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_xw1mecvwl_mwu5usj9_l3z": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "method_z3gp8dhh2_mwu5usjb_0gu": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_5kmv1j6ci_mwu5usjc_84n": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_5wjshjwsa_mwu5usjc_f3t": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_8h9s5rc98_mwu5usjc_ntj": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_8ynhzsb3s_mwu5usjc_6xq": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_9g5avwaw4_mwu5usjd_dwx": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_dueuoneig_mwu5usjc_om7": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_i17djselk_mwu5usjc_4tc": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_iv3c3egvg_mwu5usjd_l4s": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_kzh9tty1p_mwu5usjd_p6q": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_myq4xfl5m_mwu5usjd_w78": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_o4nmjdsjr_mwu5usjd_esv": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_q78hm6zsa_mwu5usjd_obo": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_qqjtfokls_mwu5usjd_go2": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_rdbllma1u_mwu5usjc_9sj": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      },
+      "rel_s445hsvoa_mwu5usjc_tal": {
+        "addedBy": "BolFengxi",
+        "addedAt": "2026-11-24T03:54:41Z"
+      }
     }
   },
-  "exportedAt": "2026-11-24T03:32:30.789Z",
+  "exportedAt": "2026-11-24T03:54:39.942Z",
   "version": "2.0.0",
   "editorVersion": "8.9.4"
 }
