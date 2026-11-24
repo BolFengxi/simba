@@ -2537,7 +2537,7 @@
                 "bounds": {
                   "x": -980,
                   "y": -540,
-                  "width": 1046.3515625,
+                  "width": 1046.0182304382324,
                   "height": 170
                 },
                 "path": [
@@ -2603,7 +2603,7 @@
                   "x": -620,
                   "y": -640,
                   "width": 724.9375,
-                  "height": 223
+                  "height": 224
                 },
                 "path": [
                   {
@@ -2668,7 +2668,7 @@
                   "x": -720,
                   "y": -540,
                   "width": 140,
-                  "height": 48
+                  "height": 49
                 },
                 "path": [
                   {
@@ -2716,8 +2716,8 @@
                 "bounds": {
                   "x": -620,
                   "y": -465,
-                  "width": 365.796875,
-                  "height": 315.5
+                  "width": 365.7916717529297,
+                  "height": 316.5
                 },
                 "path": [
                   {
@@ -2781,8 +2781,8 @@
                 "bounds": {
                   "x": -620,
                   "y": -465,
-                  "width": 723.25,
-                  "height": 595.5
+                  "width": 723.15625,
+                  "height": 596.5
                 },
                 "path": [
                   {
@@ -2847,7 +2847,7 @@
                   "x": -720,
                   "y": 82.5,
                   "width": 500,
-                  "height": 328
+                  "height": 329
                 },
                 "path": [
                   {
@@ -2904,7 +2904,7 @@
                   "x": -980,
                   "y": -465,
                   "width": 660,
-                  "height": 875.5
+                  "height": 876.5
                 },
                 "path": [
                   {
@@ -2969,7 +2969,7 @@
                   "x": -980,
                   "y": -360,
                   "width": 660,
-                  "height": 235.5
+                  "height": 236.5
                 },
                 "path": [
                   {
@@ -3027,14 +3027,14 @@
               },
               "rel_kzh9tty1p_mwu5usjd_p6q": {
                 "id": "rel_kzh9tty1p_mwu5usjd_p6q",
-                "name": "MemilikiPosko",
+                "name": "Memiliki Posko",
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
                   "x": -980,
                   "y": -360,
-                  "width": 1020,
-                  "height": 235.5
+                  "width": 1094.6875,
+                  "height": 236.5
                 },
                 "path": [
                   {
@@ -3065,7 +3065,7 @@
                 "source": {
                   "direction": "Left",
                   "element": "class_3gep3usph_mwu5usja_y8n",
-                  "multiplicity": null,
+                  "multiplicity": "0..*",
                   "role": "",
                   "navigable": true,
                   "bounds": {
@@ -3078,8 +3078,8 @@
                 "target": {
                   "direction": "Right",
                   "element": "class_k7a3yog3v_mwu5usjb_64i",
-                  "multiplicity": null,
-                  "role": null,
+                  "multiplicity": "1",
+                  "role": "Memiliki Posko",
                   "navigable": true,
                   "bounds": {
                     "x": 0,
@@ -3092,14 +3092,14 @@
               },
               "rel_myq4xfl5m_mwu5usjd_w78": {
                 "id": "rel_myq4xfl5m_mwu5usjd_w78",
-                "name": "MenerimaDistribusi",
+                "name": "Menerima distribusi",
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
                   "x": -980,
                   "y": -172.5,
-                  "width": 660,
-                  "height": 533
+                  "width": 766.71875,
+                  "height": 534
                 },
                 "path": [
                   {
@@ -3130,7 +3130,7 @@
                 "source": {
                   "direction": "Left",
                   "element": "class_3gep3usph_mwu5usja_y8n",
-                  "multiplicity": null,
+                  "multiplicity": "0..*",
                   "role": "",
                   "navigable": true,
                   "bounds": {
@@ -3143,8 +3143,8 @@
                 "target": {
                   "direction": "Right",
                   "element": "class_i7ngzjr5m_mwu5usjb_pwk",
-                  "multiplicity": null,
-                  "role": null,
+                  "multiplicity": "1",
+                  "role": "Menerima distribusi",
                   "navigable": true,
                   "bounds": {
                     "x": 0,
@@ -3164,7 +3164,7 @@
                   "x": -620,
                   "y": 200,
                   "width": 758.71875,
-                  "height": 160.5
+                  "height": 161.5
                 },
                 "path": [
                   {
@@ -3229,7 +3229,7 @@
                   "x": -720,
                   "y": 312.5,
                   "width": 500,
-                  "height": 340.5
+                  "height": 341.5
                 },
                 "path": [
                   {
@@ -3285,8 +3285,8 @@
                 "bounds": {
                   "x": -980,
                   "y": -172.5,
-                  "width": 407.7265625,
-                  "height": 825.5
+                  "width": 407.625,
+                  "height": 826.5
                 },
                 "path": [
                   {
@@ -3351,7 +3351,7 @@
                   "x": -980,
                   "y": -197.5,
                   "width": 660,
-                  "height": 303
+                  "height": 304
                 },
                 "path": [
                   {
@@ -3424,7 +3424,7 @@
                   "x": -620,
                   "y": -197.5,
                   "width": 300,
-                  "height": 290.5
+                  "height": 291.5
                 },
                 "path": [
                   {
@@ -3483,7 +3483,7 @@
             },
             "assessments": {}
           },
-          "lastUpdate": "2026-11-24T04:57:57.232Z"
+          "lastUpdate": "2026-11-24T04:58:20.238Z"
         }
       ]
     },
@@ -4079,7 +4079,7 @@
       }
     }
   },
-  "exportedAt": "2026-11-24T04:57:57.828Z",
+  "exportedAt": "2026-11-24T04:58:20.781Z",
   "version": "2.0.0",
   "editorVersion": "8.9.4"
 }
