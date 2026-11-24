@@ -1477,8 +1477,8 @@
                 "type": "Class",
                 "owner": null,
                 "bounds": {
-                  "x": -739.5,
-                  "y": -472.5,
+                  "x": -790,
+                  "y": -490,
                   "width": 220,
                   "height": 190
                 },
@@ -1499,8 +1499,8 @@
                 "type": "ClassAttribute",
                 "owner": "class_pfgqypwe2_mwu5usjb_1vd",
                 "bounds": {
-                  "x": -739,
-                  "y": -432,
+                  "x": -789.5,
+                  "y": -449.5,
                   "width": 219,
                   "height": 25
                 },
@@ -1522,8 +1522,8 @@
                 "type": "ClassAttribute",
                 "owner": "class_pfgqypwe2_mwu5usjb_1vd",
                 "bounds": {
-                  "x": -739,
-                  "y": -407,
+                  "x": -789.5,
+                  "y": -424.5,
                   "width": 219,
                   "height": 25
                 },
@@ -1545,8 +1545,8 @@
                 "type": "ClassAttribute",
                 "owner": "class_pfgqypwe2_mwu5usjb_1vd",
                 "bounds": {
-                  "x": -739,
-                  "y": -382,
+                  "x": -789.5,
+                  "y": -399.5,
                   "width": 219,
                   "height": 25
                 },
@@ -1568,8 +1568,8 @@
                 "type": "ClassAttribute",
                 "owner": "class_pfgqypwe2_mwu5usjb_1vd",
                 "bounds": {
-                  "x": -739,
-                  "y": -357,
+                  "x": -789.5,
+                  "y": -374.5,
                   "width": 219,
                   "height": 25
                 },
@@ -1591,8 +1591,8 @@
                 "type": "ClassMethod",
                 "owner": "class_pfgqypwe2_mwu5usjb_1vd",
                 "bounds": {
-                  "x": -739,
-                  "y": -332,
+                  "x": -789.5,
+                  "y": -349.5,
                   "width": 219,
                   "height": 25
                 },
@@ -1614,8 +1614,8 @@
                 "type": "ClassMethod",
                 "owner": "class_pfgqypwe2_mwu5usjb_1vd",
                 "bounds": {
-                  "x": -739,
-                  "y": -307,
+                  "x": -789.5,
+                  "y": -324.5,
                   "width": 219,
                   "height": 25
                 },
@@ -2600,39 +2600,27 @@
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": -1210,
-                  "y": -537.5,
-                  "width": 254.9375,
-                  "height": 950.5
+                  "x": -1060,
+                  "y": -310,
+                  "width": 104.9375,
+                  "height": 723
                 },
                 "path": [
                   {
-                    "x": 40,
-                    "y": 10
+                    "x": 55,
+                    "y": 0
+                  },
+                  {
+                    "x": 55,
+                    "y": 685
                   },
                   {
                     "x": 0,
-                    "y": 10
-                  },
-                  {
-                    "x": 0,
-                    "y": 267.5
-                  },
-                  {
-                    "x": 245,
-                    "y": 267.5
-                  },
-                  {
-                    "x": 245,
-                    "y": 912.5
-                  },
-                  {
-                    "x": 150,
-                    "y": 912.5
+                    "y": 685
                   }
                 ],
                 "source": {
-                  "direction": "Upleft",
+                  "direction": "Bottomright",
                   "element": "class_71osc72gz_mwu5usj9_7r7",
                   "multiplicity": "2..*",
                   "role": "",
@@ -2718,39 +2706,31 @@
                 "type": "ClassBidirectional",
                 "owner": null,
                 "bounds": {
-                  "x": -1210,
-                  "y": -392.5,
-                  "width": 935.796875,
-                  "height": 373
+                  "x": -950,
+                  "y": -537.5,
+                  "width": 675.796875,
+                  "height": 518
                 },
                 "path": [
                   {
-                    "x": 40,
-                    "y": 10
-                  },
-                  {
                     "x": 0,
                     "y": 10
                   },
                   {
-                    "x": 0,
-                    "y": 122.5
+                    "x": 610,
+                    "y": 10
                   },
                   {
-                    "x": 870,
-                    "y": 122.5
+                    "x": 610,
+                    "y": 480
                   },
                   {
-                    "x": 870,
-                    "y": 335
-                  },
-                  {
-                    "x": 830,
-                    "y": 335
+                    "x": 570,
+                    "y": 480
                   }
                 ],
                 "source": {
-                  "direction": "Downleft",
+                  "direction": "Upright",
                   "element": "class_71osc72gz_mwu5usj9_7r7",
                   "multiplicity": "0..*",
                   "role": "",
@@ -3389,10 +3369,10 @@
                 "type": "ClassInheritance",
                 "owner": null,
                 "bounds": {
-                  "x": -779.5,
-                  "y": -387.5,
-                  "width": 439.5,
-                  "height": 368
+                  "x": -830,
+                  "y": -405,
+                  "width": 490,
+                  "height": 385.5
                 },
                 "path": [
                   {
@@ -3408,16 +3388,16 @@
                     "y": 145
                   },
                   {
-                    "x": 439.5,
+                    "x": 490,
                     "y": 145
                   },
                   {
-                    "x": 439.5,
-                    "y": 330
+                    "x": 490,
+                    "y": 347.5
                   },
                   {
-                    "x": 399.5,
-                    "y": 330
+                    "x": 450,
+                    "y": 347.5
                   }
                 ],
                 "source": {
@@ -3451,7 +3431,7 @@
             },
             "assessments": {}
           },
-          "lastUpdate": "2026-11-24T04:12:03.280Z"
+          "lastUpdate": "2026-11-24T04:12:16.477Z"
         }
       ]
     },
@@ -4023,7 +4003,7 @@
       }
     }
   },
-  "exportedAt": "2026-11-24T04:12:03.835Z",
+  "exportedAt": "2026-11-24T04:12:16.809Z",
   "version": "2.0.0",
   "editorVersion": "8.9.4"
 }
